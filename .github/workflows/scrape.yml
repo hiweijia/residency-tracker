@@ -1,72 +1,215 @@
-name: Daily Residency Scrape
+# 你想监控的来源列表
+# 每个来源支持三种 type:
+#   rss      — RSS / Atom feed(最稳,推荐)
+#   html     — 直接爬 HTML 页面(用 cloudscraper 绕 Cloudflare)
+#   mailchimp — Mailchimp 的公开 newsletter archive(很多西班牙小机构用)
+#
+# 加新来源:复制一个 block,改字段。删掉就直接删 block。
 
-on:
-  schedule:
-    - cron: '0 6 * * *'
-  workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'sites.yaml'
-      - 'scrapers/**'
-      - '.github/workflows/**'
+sources:
+  # ==================== RSS 主力(最稳定,优先) ====================
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+  - name: On the Move (聚合 - 全欧洲)
+    type: rss
+    url: https://on-the-move.org/feed
+    location: International
+    tags: [aggregator, europe, residencies]
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+  - name: e-flux Announcements
+    type: rss
+    url: https://www.e-flux.com/announcements/feed/
+    location: International
+    tags: [aggregator, prestigious]
+    keywords: [open call, residency, application, fellowship, deadline]
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+  - name: Res Artis Open Calls
+    type: rss
+    url: https://resartis.org/open-calls/feed/
+    location: International
+    tags: [aggregator, global]
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+  - name: TransArtists News
+    type: rss
+    url: https://www.transartists.org/en/news/rss.xml
+    location: International
+    tags: [aggregator, europe]
 
-      - name: Run scraper
-        run: |
-          cd scrapers
-          python scrape.py
-        continue-on-error: true
+  - name: a-n News
+    type: rss
+    url: https://www.a-n.co.uk/feed/
+    location: UK
+    tags: [aggregator, uk]
+    keywords: [open call, residency, opportunity, deadline]
 
-      - name: Commit results
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add data/ docs/
-          git diff --staged --quiet || git commit -m "🤖 Auto-update calls $(date -u +%Y-%m-%d)"
-          git push
-        continue-on-error: true
+  - name: Akimbo
+    type: rss
+    url: https://akimbo.ca/feed/
+    location: Canada/International
+    tags: [aggregator, north-america]
 
-  deploy:
-    needs: scrape
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: main
+  - name: Hyperallergic Opportunities
+    type: rss
+    url: https://hyperallergic.com/category/opportunities/feed/
+    location: US/International
+    tags: [aggregator, us]
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+  - name: Akademie Schloss Solitude News
+    type: rss
+    url: https://www.akademie-solitude.de/en/news/feed/
+    location: Stuttgart, DE
+    tags: [tech, web-residency, prestigious]
+    keywords: [residency, fellowship, open call, web]
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
+  # ==================== HTML 爬虫(巴塞罗那本地核心) ====================
+  # 这些网站没 RSS,但用 cloudscraper 大概率能进
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  - name: Hangar Barcelona
+    type: html
+    url: https://hangar.org/en/category/convocatories-3/
+    location: Barcelona
+    tags: [local, tech, international]
+    keywords: [open call, convocatoria, residency, residencia, deadline]
+
+  - name: Sant Andreu Contemporani
+    type: html
+    url: https://santandreucontemporani.org/es/convocatorias-es/
+    location: Barcelona
+    tags: [local, low-competition]
+    keywords: [convocatoria, open call, residencia, beca]
+
+  - name: Santa Mònica
+    type: html
+    url: https://www.santamonica.cat/en/convocatories
+    location: Barcelona
+    tags: [local, mediation]
+    keywords: [open call, convocatoria, residency, beca]
+
+  - name: La Bonne (Centre de Cultura de Dones)
+    type: html
+    url: https://labonne.org/temes/noticies/
+    location: Barcelona
+    tags: [women, feminist, local, low-competition]
+    keywords: [convocatòria, convocatoria, residència, residencia, beca, paquita]
+
+  - name: La Escocesa
+    type: html
+    url: https://laescocesa.org/en/news/
+    location: Barcelona
+    tags: [local, rebellious, low-competition, visual-arts]
+    keywords: [open call, convocatoria, residencia, residència, beca]
+
+  - name: Homesession
+    type: html
+    url: https://www.homesession.org/
+    location: Barcelona
+    tags: [local, low-competition, queer-friendly]
+    keywords: [open call, residency, convocatoria, residencia]
+
+  - name: Espai Souvenir
+    type: html
+    url: https://espaisouvenir.com/
+    location: Barcelona
+    tags: [local, emerging]
+    keywords: [open call, convocatoria]
+
+  - name: Fabra i Coats Fàbriques de Creació
+    type: html
+    url: https://ajuntament.barcelona.cat/fabriquescreacio/en/news
+    location: Barcelona
+    tags: [local]
+    keywords: [open call, convocatoria, residency, residencia]
+
+  - name: Piramidón
+    type: html
+    url: https://www.piramidon.com/en/
+    location: Barcelona
+    tags: [local, visual-arts]
+    keywords: [open call, convocatoria, beca]
+
+  # ==================== HTML 爬虫(西班牙其他 + 国际重点) ====================
+
+  - name: Medialab Matadero (Madrid)
+    type: html
+    url: https://www.medialab-matadero.es/en/announcements
+    location: Madrid
+    tags: [tech, public-engagement, free]
+    keywords: [open call, convocatoria, residency, residencia]
+
+  - name: Tabakalera
+    type: html
+    url: https://www.tabakalera.eus/en/artists-and-creators/agenda
+    location: San Sebastián
+    tags: [tech, science, local-spain]
+    keywords: [open call, convocatoria, residency]
+
+  - name: Delfina Foundation Open Calls
+    type: html
+    url: https://www.delfinafoundation.com/open-calls/current/
+    location: London
+    tags: [postcolonial, women, prestigious]
+    keywords: [open call, deadline, application, residency]
+
+  - name: AFIELD
+    type: html
+    url: https://afield.org/
+    location: International
+    tags: [social-engagement, justice]
+    keywords: [open call, fellowship, application, deadline, grant]
+
+# ==================== 主题契合关键词 ====================
+# 文本里包含这些词 → priority_score +1,被排到前面 / 高亮
+priority_keywords:
+  - migration
+  - migrant
+  - migración
+  - migració
+  - diaspora
+  - diáspora
+  - women
+  - mujer
+  - mujeres
+  - dones
+  - feminist
+  - feminism
+  - feminismo
+  - feminisme
+  - feministas
+  - queer
+  - lgbtq
+  - lgbtqia+
+  - intergenerational
+  - generational
+  - generación
+  - genealogía
+  - genealogies
+  - genealogia
+  - body
+  - cuerpo
+  - cos
+  - corporal
+  - walking
+  - caminar
+  - public space
+  - espacio público
+  - espai públic
+  - chinese
+  - asian
+  - asiática
+  - participatory
+  - mediación
+  - mediación social
+  - decolonial
+  - decolonización
+  - "2026"
+  - "2027"
+
+# ==================== 排除关键词 ====================
+# 内容只包含这些(没其他相关内容)→ 跳过
+exclude_keywords:
+  - past call
+  - convocatoria cerrada
+  - call closed
+  - closed for applications
+  - selected artists announced
+  - winners announced
+  - resultados de la convocatoria
