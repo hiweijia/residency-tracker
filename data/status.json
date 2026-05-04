@@ -1,0 +1,158 @@
+{
+  "generated_at": "2026-05-04T20:47:59.862502",
+  "sources": [
+    {
+      "name": "On the Move (聚合 - 全欧洲)",
+      "type": "rss",
+      "url": "https://on-the-move.org/feed",
+      "status": "⚠️ no items in feed",
+      "count": 0
+    },
+    {
+      "name": "e-flux Announcements",
+      "type": "rss",
+      "url": "https://www.e-flux.com/announcements/feed/",
+      "status": "❌ HTTP 404",
+      "count": 0
+    },
+    {
+      "name": "Res Artis Open Calls",
+      "type": "rss",
+      "url": "https://resartis.org/open-calls/feed/",
+      "status": "❌ SSLError",
+      "count": 0
+    },
+    {
+      "name": "TransArtists News",
+      "type": "rss",
+      "url": "https://www.transartists.org/en/news/rss.xml",
+      "status": "⚠️ no items in feed",
+      "count": 0
+    },
+    {
+      "name": "a-n News",
+      "type": "rss",
+      "url": "https://www.a-n.co.uk/feed/",
+      "status": "⚠️ no items in feed",
+      "count": 0
+    },
+    {
+      "name": "Akimbo",
+      "type": "rss",
+      "url": "https://akimbo.ca/feed/",
+      "status": "⚠️ no items in feed",
+      "count": 0
+    },
+    {
+      "name": "Hyperallergic Opportunities",
+      "type": "rss",
+      "url": "https://hyperallergic.com/category/opportunities/feed/",
+      "status": "✅ 15 items",
+      "count": 15
+    },
+    {
+      "name": "Akademie Schloss Solitude News",
+      "type": "rss",
+      "url": "https://www.akademie-solitude.de/en/news/feed/",
+      "status": "✅ 2 items",
+      "count": 2
+    },
+    {
+      "name": "Hangar Barcelona",
+      "type": "html",
+      "url": "https://hangar.org/en/category/convocatories-3/",
+      "status": "✅ 6 items",
+      "count": 6
+    },
+    {
+      "name": "Sant Andreu Contemporani",
+      "type": "html",
+      "url": "https://santandreucontemporani.org/es/convocatorias-es/",
+      "status": "✅ 27 items",
+      "count": 27
+    },
+    {
+      "name": "Santa Mònica",
+      "type": "html",
+      "url": "https://www.santamonica.cat/en/convocatories",
+      "status": "✅ 1 items",
+      "count": 1
+    },
+    {
+      "name": "La Bonne (Centre de Cultura de Dones)",
+      "type": "html",
+      "url": "https://labonne.org/temes/noticies/",
+      "status": "❌ SSLError",
+      "count": 0
+    },
+    {
+      "name": "La Escocesa",
+      "type": "html",
+      "url": "https://laescocesa.org/en/news/",
+      "status": "❌ HTTP 404",
+      "count": 0
+    },
+    {
+      "name": "Homesession",
+      "type": "html",
+      "url": "https://www.homesession.org/",
+      "status": "✅ 11 items",
+      "count": 11
+    },
+    {
+      "name": "Espai Souvenir",
+      "type": "html",
+      "url": "https://espaisouvenir.com/",
+      "status": "✅ 0 items",
+      "count": 0
+    },
+    {
+      "name": "Fabra i Coats Fàbriques de Creació",
+      "type": "html",
+      "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news",
+      "status": "✅ 2 items",
+      "count": 2
+    },
+    {
+      "name": "Piramidón",
+      "type": "html",
+      "url": "https://www.piramidon.com/en/",
+      "status": "✅ 0 items",
+      "count": 0
+    },
+    {
+      "name": "Medialab Matadero (Madrid)",
+      "type": "html",
+      "url": "https://www.medialab-matadero.es/en/announcements",
+      "status": "❌ HTTP 404",
+      "count": 0
+    },
+    {
+      "name": "Tabakalera",
+      "type": "html",
+      "url": "https://www.tabakalera.eus/en/artists-and-creators/agenda",
+      "status": "✅ 8 items",
+      "count": 8
+    },
+    {
+      "name": "Delfina Foundation Open Calls",
+      "type": "html",
+      "url": "https://www.delfinafoundation.com/open-calls/current/",
+      "status": "✅ 6 items",
+      "count": 6
+    },
+    {
+      "name": "AFIELD",
+      "type": "html",
+      "url": "https://afield.org/",
+      "status": "✅ 6 items",
+      "count": 6
+    }
+  ],
+  "summary": {
+    "total_sources": 21,
+    "ok": 12,
+    "failed": 5,
+    "warned": 4
+  }
+}
