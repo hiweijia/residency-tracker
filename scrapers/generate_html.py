@@ -1,0 +1,410 @@
+#!/usr/bin/env python3
+"""
+HTML 生成器 - 把 calls 数据渲染成一个可筛选、可排序的网页
+"""
+
+import json
+from datetime import datetime, timedelta
+from pathlib import Path
+
+ROOT = Path(__file__).parent.parent
+HTML_OUTPUT = ROOT / "docs" / "index.html"
+
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Residency Tracker — Weijia</title>
+<style>
+:root {
+  --bg: #faf8f5;
+  --fg: #1a1a1a;
+  --accent: #d63384;
+  --muted: #6c757d;
+  --card-bg: #fff;
+  --border: #e5e0d8;
+  --priority-bg: #fff3e0;
+  --new-bg: #e8f5e9;
+  --urgent-bg: #ffebee;
+}
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+header {
+  background: var(--fg);
+  color: var(--bg);
+  padding: 24px 32px;
+  border-bottom: 4px solid var(--accent);
+}
+header h1 { margin: 0; font-size: 24px; font-weight: 600; }
+header .meta { font-size: 13px; opacity: 0.7; margin-top: 4px; }
+main { max-width: 1200px; margin: 0 auto; padding: 24px; }
+
+.controls {
+  background: var(--card-bg);
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-bottom: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+.controls input, .controls select {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  background: white;
+}
+.controls input { flex: 1 1 200px; }
+.controls .stat {
+  font-size: 13px;
+  color: var(--muted);
+  margin-left: auto;
+}
+
+.tag-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+.tag {
+  display: inline-block;
+  padding: 4px 10px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.15s;
+}
+.tag:hover { border-color: var(--accent); }
+.tag.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.calls { display: grid; gap: 16px; }
+.call {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 18px 20px;
+  transition: transform 0.15s, box-shadow 0.15s;
+  position: relative;
+}
+.call:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.06); }
+
+.call.is-new {
+  border-left: 4px solid #2e7d32;
+}
+.call.is-urgent {
+  border-left: 4px solid #c62828;
+}
+.call.high-priority {
+  background: linear-gradient(to right, var(--priority-bg) 0%, var(--card-bg) 50%);
+}
+
+.call-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+.call h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+.call h3 a {
+  color: var(--fg);
+  text-decoration: none;
+}
+.call h3 a:hover { color: var(--accent); }
+
+.call-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.call-meta span { white-space: nowrap; }
+
+.deadline {
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: #f0f0f0;
+}
+.deadline.urgent { background: #ffcdd2; color: #b71c1c; }
+.deadline.soon { background: #fff3e0; color: #e65100; }
+.deadline.far { background: #e8f5e9; color: #2e7d32; }
+
+.snippet {
+  font-size: 13px;
+  color: #444;
+  margin: 8px 0;
+  max-height: 100px;
+  overflow: hidden;
+  position: relative;
+}
+.snippet.expanded { max-height: none; }
+.snippet::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background: linear-gradient(transparent, var(--card-bg));
+  pointer-events: none;
+}
+.snippet.expanded::after { display: none; }
+
+.matched {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+.matched .kw {
+  display: inline-block;
+  padding: 2px 8px;
+  background: var(--priority-bg);
+  border: 1px solid #ffb74d;
+  border-radius: 10px;
+  font-size: 11px;
+  color: #e65100;
+}
+
+.badges { display: flex; gap: 6px; }
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.badge.new { background: #c8e6c9; color: #1b5e20; }
+.badge.urgent { background: #ffcdd2; color: #b71c1c; }
+
+.no-results {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--muted);
+  font-size: 16px;
+}
+
+footer {
+  max-width: 1200px;
+  margin: 40px auto 24px;
+  padding: 0 24px;
+  font-size: 12px;
+  color: var(--muted);
+  text-align: center;
+}
+footer a { color: var(--muted); }
+
+@media (max-width: 600px) {
+  header { padding: 16px 20px; }
+  main { padding: 16px; }
+  .controls { padding: 12px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎨 Residency Tracker</h1>
+  <div class="meta">最后更新:__GENERATED_AT__ · 共 __TOTAL__ 个 open call · __NEW__ 个新发现</div>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="text" id="search" placeholder="🔍 搜索关键词(标题、内容、机构)...">
+    <select id="sort">
+      <option value="deadline">按截止日(近→远)</option>
+      <option value="priority">按主题契合度</option>
+      <option value="newest">按新发现</option>
+    </select>
+    <select id="tag-filter">
+      <option value="all">所有 tag</option>
+      __TAG_OPTIONS__
+    </select>
+    <select id="time-filter">
+      <option value="all">所有截止日</option>
+      <option value="urgent">7 天内</option>
+      <option value="month">30 天内</option>
+      <option value="quarter">3 个月内</option>
+      <option value="no-deadline">无明确截止</option>
+    </select>
+    <span class="stat" id="stat"></span>
+  </div>
+
+  <div class="calls" id="calls"></div>
+  <div class="no-results" id="no-results" style="display:none">没有符合条件的项目。试试调整筛选条件。</div>
+</main>
+
+<footer>
+  数据每天自动更新 · <a href="https://github.com/__GITHUB_USER__/__REPO__" target="_blank">GitHub 仓库</a> · 编辑 sites.yaml 添加新网站
+</footer>
+
+<script>
+const calls = __CALLS_JSON__;
+const today = new Date();
+
+function getDeadlineStatus(call) {
+  if (!call.deadline) return null;
+  const d = new Date(call.deadline);
+  const days = Math.ceil((d - today) / 86400000);
+  if (days < 0) return { class: "urgent", text: `已过 ${-days} 天`, days };
+  if (days <= 7) return { class: "urgent", text: `${days} 天后截止`, days };
+  if (days <= 30) return { class: "soon", text: `${days} 天后截止`, days };
+  return { class: "far", text: `${days} 天后截止 · ${d.toISOString().slice(0,10)}`, days };
+}
+
+function render() {
+  const search = document.getElementById("search").value.toLowerCase();
+  const sort = document.getElementById("sort").value;
+  const tag = document.getElementById("tag-filter").value;
+  const timeFilter = document.getElementById("time-filter").value;
+
+  let filtered = calls.filter(c => {
+    if (search) {
+      const haystack = (c.title + " " + c.snippet + " " + c.source + " " + (c.matched_keywords||[]).join(" ")).toLowerCase();
+      if (!haystack.includes(search)) return false;
+    }
+    if (tag !== "all" && !(c.tags || []).includes(tag)) return false;
+    if (timeFilter !== "all") {
+      const status = getDeadlineStatus(c);
+      if (timeFilter === "no-deadline" && status) return false;
+      if (timeFilter === "urgent" && (!status || status.days > 7 || status.days < 0)) return false;
+      if (timeFilter === "month" && (!status || status.days > 30 || status.days < 0)) return false;
+      if (timeFilter === "quarter" && (!status || status.days > 90 || status.days < 0)) return false;
+    }
+    return true;
+  });
+
+  if (sort === "priority") {
+    filtered.sort((a, b) => (b.priority_score||0) - (a.priority_score||0));
+  } else if (sort === "newest") {
+    filtered.sort((a, b) => (b.is_new?1:0) - (a.is_new?1:0));
+  } else {
+    filtered.sort((a, b) => {
+      const sa = getDeadlineStatus(a), sb = getDeadlineStatus(b);
+      if (!sa && !sb) return (b.priority_score||0) - (a.priority_score||0);
+      if (!sa) return 1;
+      if (!sb) return -1;
+      return sa.days - sb.days;
+    });
+  }
+
+  const container = document.getElementById("calls");
+  const noResults = document.getElementById("no-results");
+  document.getElementById("stat").textContent = `显示 ${filtered.length} / ${calls.length}`;
+
+  if (filtered.length === 0) {
+    container.innerHTML = "";
+    noResults.style.display = "block";
+    return;
+  }
+  noResults.style.display = "none";
+
+  container.innerHTML = filtered.map(c => {
+    const status = getDeadlineStatus(c);
+    const isUrgent = status && status.days <= 14 && status.days >= 0;
+    const isHighPriority = (c.priority_score || 0) >= 3;
+    const matched = (c.matched_keywords || []).slice(0, 8);
+
+    let cls = "call";
+    if (c.is_new) cls += " is-new";
+    if (isUrgent) cls += " is-urgent";
+    if (isHighPriority) cls += " high-priority";
+
+    return `
+    <article class="${cls}">
+      <div class="call-header">
+        <h3><a href="${c.url}" target="_blank" rel="noopener">${escapeHtml(c.title)}</a></h3>
+        <div class="badges">
+          ${c.is_new ? '<span class="badge new">新</span>' : ''}
+          ${isUrgent ? '<span class="badge urgent">紧急</span>' : ''}
+        </div>
+      </div>
+      <div class="call-meta">
+        <span>📍 ${escapeHtml(c.source)}</span>
+        <span>🌍 ${escapeHtml(c.location || '')}</span>
+        ${status ? `<span class="deadline ${status.class}">⏰ ${status.text}</span>` : '<span class="deadline">⏰ 无明确截止</span>'}
+        ${c.priority_score ? `<span>⭐ 契合度 ${c.priority_score}</span>` : ''}
+      </div>
+      <div class="snippet" onclick="this.classList.toggle('expanded')">${escapeHtml(c.snippet || '')}</div>
+      ${matched.length ? `<div class="matched">${matched.map(k => `<span class="kw">${escapeHtml(k)}</span>`).join('')}</div>` : ''}
+    </article>`;
+  }).join("");
+}
+
+function escapeHtml(s) {
+  if (!s) return '';
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("sort").addEventListener("change", render);
+document.getElementById("tag-filter").addEventListener("change", render);
+document.getElementById("time-filter").addEventListener("change", render);
+
+render();
+</script>
+</body>
+</html>"""
+
+
+def generate(calls, generated_at):
+    HTML_OUTPUT.parent.mkdir(exist_ok=True)
+
+    # 收集所有 tag
+    all_tags = set()
+    for c in calls:
+        all_tags.update(c.get("tags", []))
+    tag_options = "\n".join(f'<option value="{t}">{t}</option>' for t in sorted(all_tags))
+
+    new_count = sum(1 for c in calls if c.get("is_new"))
+
+    html = (HTML_TEMPLATE
+            .replace("__GENERATED_AT__", generated_at.strftime("%Y-%m-%d %H:%M"))
+            .replace("__TOTAL__", str(len(calls)))
+            .replace("__NEW__", str(new_count))
+            .replace("__TAG_OPTIONS__", tag_options)
+            .replace("__CALLS_JSON__", json.dumps(calls, ensure_ascii=False))
+            .replace("__GITHUB_USER__", "yourname")
+            .replace("__REPO__", "residency-tracker"))
+
+    with open(HTML_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(html)
+
+
+if __name__ == "__main__":
+    # 用现有数据重新生成 HTML(不重新爬)
+    DATA_FILE = ROOT / "data" / "calls.json"
+    if DATA_FILE.exists():
+        with open(DATA_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+        generate(data["calls"], datetime.fromisoformat(data["generated_at"]))
+        print(f"✅ Regenerated {HTML_OUTPUT}")
+    else:
+        print("❌ No data file found. Run scrape.py first.")

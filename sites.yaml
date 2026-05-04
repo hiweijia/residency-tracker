@@ -1,0 +1,195 @@
+# 你想监控的网站列表
+# 加新网站:复制一个 block,改 name / url / type / 关键词
+# 删除:直接删掉那个 block
+# 改完后下次自动运行就生效
+
+sites:
+  # ==================== 巴塞罗那本地 ====================
+  - name: La Bonne (Centre de Cultura de Dones)
+    url: https://labonne.org/
+    type: generic
+    location: Barcelona
+    tags: [women, feminist, local, low-competition]
+    keywords: [convocatòria, convocatoria, residència, residencia, beca, open call, paquita]
+
+  - name: La Escocesa
+    url: https://laescocesa.org/en/news
+    type: generic
+    location: Barcelona
+    tags: [local, rebellious, low-competition, visual-arts]
+    keywords: [open call, convocatoria, residencia, residència, beca]
+
+  - name: Hangar Barcelona
+    url: https://hangar.org/en/category/convocatories-3/
+    type: generic
+    location: Barcelona
+    tags: [local, tech, international]
+    keywords: [open call, convocatoria, residency, residencia, deadline]
+
+  - name: Sant Andreu Contemporani
+    url: https://santandreucontemporani.org/es/convocatorias-es/
+    type: generic
+    location: Barcelona
+    tags: [local, low-competition]
+    keywords: [convocatoria, open call, residencia, beca]
+
+  - name: Santa Mònica
+    url: https://www.santamonica.cat/en/convocatories
+    type: generic
+    location: Barcelona
+    tags: [local, mediation, participatory]
+    keywords: [open call, convocatoria, residency, beca]
+
+  - name: Homesession
+    url: https://www.homesession.org/residency-programme-for-artists-and-curators/
+    type: generic
+    location: Barcelona
+    tags: [local, low-competition, queer-friendly]
+    keywords: [open call, convocatoria, residency, residencia]
+
+  - name: Espai Souvenir
+    url: https://espaisouvenir.com/open-call-2026
+    type: generic
+    location: Barcelona
+    tags: [local, emerging, low-competition]
+    keywords: [open call, convocatoria]
+
+  - name: Fabra i Coats Fàbriques de Creació
+    url: https://ajuntament.barcelona.cat/fabriquescreacio/en/news
+    type: generic
+    location: Barcelona
+    tags: [local]
+    keywords: [open call, convocatoria, residency, residencia]
+
+  - name: IRB Barcelona Artist in Residence
+    url: https://www.irbbarcelona.org/en/outreach/public-engagement/art-and-science/artist-residence-programme
+    type: generic
+    location: Barcelona
+    tags: [local, science]
+    keywords: [open call, application, residency]
+
+  - name: Piramidón
+    url: https://www.piramidon.com/en/
+    type: generic
+    location: Barcelona
+    tags: [local, visual-arts]
+    keywords: [open call, convocatoria, beca]
+
+  # ==================== 西班牙其他 ====================
+  - name: Medialab-Matadero (Madrid)
+    url: https://www.medialab-matadero.es/en/announcements
+    type: generic
+    location: Madrid
+    tags: [tech, public-engagement, free]
+    keywords: [open call, convocatoria, residency, residencia]
+
+  - name: Tabakalera
+    url: https://www.tabakalera.eus/en/artists-and-creators/agenda
+    type: generic
+    location: San Sebastián
+    tags: [tech, science, local-spain]
+    keywords: [open call, convocatoria, residency]
+
+  # ==================== 国际聚合源 ====================
+  - name: On the Move
+    url: https://on-the-move.org/news
+    type: generic
+    location: International
+    tags: [aggregator, europe]
+    keywords: [open call, deadline, residency, women, gender, migration, diaspora]
+
+  - name: TransArtists
+    url: https://www.transartists.org/en/news
+    type: generic
+    location: International
+    tags: [aggregator, europe]
+    keywords: [open call, residency, deadline]
+
+  - name: Res Artis Open Calls
+    url: https://resartis.org/open-calls/
+    type: generic
+    location: International
+    tags: [aggregator, global]
+    keywords: [open call, residency, deadline]
+
+  - name: e-flux Announcements
+    url: https://www.e-flux.com/announcements/
+    type: generic
+    location: International
+    tags: [aggregator, prestigious]
+    keywords: [open call, application deadline, residency]
+
+  - name: Culture360 Opportunities
+    url: https://culture360.org/opportunities/
+    type: generic
+    location: International
+    tags: [aggregator, asia-europe]
+    keywords: [open call, deadline, residency]
+
+  # ==================== 主题契合机构 ====================
+  - name: AFIELD
+    url: https://afield.org/
+    type: generic
+    location: International
+    tags: [social-engagement, justice]
+    keywords: [open call, fellowship, application, deadline]
+
+  - name: Delfina Foundation
+    url: https://www.delfinafoundation.com/open-calls/current/
+    type: generic
+    location: London
+    tags: [postcolonial, women, prestigious]
+    keywords: [open call, deadline, application, residency]
+
+  - name: Akademie Schloss Solitude Web Residencies
+    url: https://application.akademie-solitude.de/fellowship-information/web-residencies
+    type: generic
+    location: Online
+    tags: [online, tech, web-based]
+    keywords: [web residency, open call, application]
+
+# ==================== 你的关注关键词 ====================
+# 找到的内容如果包含这些词,会被高亮 / 推到顶部
+priority_keywords:
+  - migration
+  - migrant
+  - migración
+  - diaspora
+  - diáspora
+  - women
+  - mujer
+  - dones
+  - feminist
+  - feminism
+  - feminismo
+  - queer
+  - lgbtq
+  - lgbtqia
+  - intergenerational
+  - generational
+  - generación
+  - genealogía
+  - genealogies
+  - body
+  - cuerpo
+  - cos
+  - walking
+  - public space
+  - espacio público
+  - chinese
+  - asian
+  - asiática
+  - participatory
+  - mediación
+  - 2026
+  - 2027
+
+# ==================== 排除关键词 ====================
+# 找到的内容如果只包含这些(没有其他相关内容),就跳过
+exclude_keywords:
+  - past call
+  - convocatoria cerrada
+  - call closed
+  - closed for applications
+  - selected artists announced
+  - winners announced
