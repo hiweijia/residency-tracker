@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-05-05T08:11:46.811857",
-  "total": 76,
+  "generated_at": "2026-05-07T08:35:23.458386",
+  "total": 74,
   "calls": [
-    {
-      "id": "c0ab2ba04779",
-      "title": "Vilcek Foundation to Award $200,000 in Grants to Nonprofits Uplifting Immigrant Contributions",
-      "url": "https://hyperallergic.com/vilcek-foundation-to-award-200-000-in-grants-to-nonprofits-uplifting-immigrant-contributions/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "The foundation invites grant applications from mission-aligned nonprofit organizations in the arts and sciences by April 30, 2026.",
-      "deadline": "2026-04-30T00:00:00",
-      "deadline_raw": "April 30, 2026",
-      "priority_score": 2,
-      "matched_keywords": [
-        "migrant",
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:25.819696",
-      "is_new": false
-    },
     {
       "id": "8a20546e823c",
       "title": "Open call: Mediation projects 2026",
@@ -530,6 +509,27 @@
       "is_new": false
     },
     {
+      "id": "5e3d67dae9e2",
+      "title": "[ notícies ] El nou Homesession va prenent forma!",
+      "url": "https://www.homesession.org/ca/blog/2026/05/06/el-nou-homesession-va-prenent-forma/",
+      "source": "Homesession",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "low-competition",
+        "queer-friendly"
+      ],
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-05-07T08:36:24.300914",
+      "is_new": true
+    },
+    {
       "id": "8635218c16cf",
       "title": "[ notícies ] Mária Jančová, nova artista en residència de Praga",
       "url": "https://www.homesession.org/ca/blog/2026/04/17/maria-jancova-nova-artista-en-residencia-de-praga/",
@@ -540,7 +540,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -561,7 +561,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -582,7 +582,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -603,7 +603,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -624,7 +624,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -645,7 +645,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -666,7 +666,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -687,7 +687,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -708,7 +708,7 @@
         "low-competition",
         "queer-friendly"
       ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
+      "snippet": "[ notícies ] El nou Homesession va prenent forma! [ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Mer...",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 1,
@@ -716,27 +716,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:58.714594",
-      "is_new": false
-    },
-    {
-      "id": "a3d9209908af",
-      "title": "[ notícies ] Open Call per a performers a Quebec / Écart + Centre Clark",
-      "url": "https://www.homesession.org/ca/blog/2026/01/20/open-call-exchange-a-quebec-ecart-centre-clark-3/",
-      "source": "Homesession",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "low-competition",
-        "queer-friendly"
-      ],
-      "snippet": "[ notícies ] Mária Jančová, nova artista en residència de Praga [ notícies ] Albert Gironès, nou artista Ex Libris a la biblioteca Montserrat Abelló [ notícies ] Les artistes i comissari / Art Nou 2026 [ notícies ] Xavier Michel, guanyador de la beca Exchange al Quebec [ notícies ] Josep Piñol, guanyador de la beca Exchange a Praga [ notícies ] Convocatòria: Tres beques d’investigació artística / Barcelona Crea – Homesession 2026 [ notícies ] Meritxell Cañas guanya la beca Exchange a Itàlia [ no...",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:58.715153",
       "is_new": false
     },
     {
@@ -1265,25 +1244,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:35.918795",
-      "is_new": false
-    },
-    {
-      "id": "660e657aff7a",
-      "title": "residency",
-      "url": "https://www.homesession.org/ca/programa-de-residencies-per-a-artistas-i-comissaris/",
-      "source": "Homesession",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "low-competition",
-        "queer-friendly"
-      ],
-      "snippet": "residency",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:58.707787",
       "is_new": false
     },
     {
