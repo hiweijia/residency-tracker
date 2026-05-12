@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T09:41:34.241175",
-  "total": 74,
+  "generated_at": "2026-05-12T08:41:54.745268",
+  "total": 70,
   "calls": [
     {
       "id": "8a20546e823c",
@@ -1358,78 +1358,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.072603",
-      "is_new": false
-    },
-    {
-      "id": "6a59e85c1c6b",
-      "title": "Open Call",
-      "url": "https://afield.org/tja-2026-open-call/",
-      "source": "AFIELD",
-      "location": "International",
-      "tags": [
-        "social-engagement",
-        "justice"
-      ],
-      "snippet": "Open Call",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:26.647069",
-      "is_new": false
-    },
-    {
-      "id": "c121e4c6e61d",
-      "title": "people",
-      "url": "https://afield.org/people/",
-      "source": "AFIELD",
-      "location": "International",
-      "tags": [
-        "social-engagement",
-        "justice"
-      ],
-      "snippet": "an international network of cultural changemakers AFIELD is anchored in the fundamental belief that artists are essential to the fabric of society, as thinkers, visionaries and changemakers. By providing the resources and support, AFIELD believes in their profound capacity to lead transformational change in their communities and society as a whole. people program news open call",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:26.647656",
-      "is_new": false
-    },
-    {
-      "id": "7e7d4077982c",
-      "title": "program",
-      "url": "https://afield.org/program/fellowship/",
-      "source": "AFIELD",
-      "location": "International",
-      "tags": [
-        "social-engagement",
-        "justice"
-      ],
-      "snippet": "an international network of cultural changemakers AFIELD is anchored in the fundamental belief that artists are essential to the fabric of society, as thinkers, visionaries and changemakers. By providing the resources and support, AFIELD believes in their profound capacity to lead transformational change in their communities and society as a whole. people program news open call",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:26.647940",
-      "is_new": false
-    },
-    {
-      "id": "ad69e9f908fb",
-      "title": "an international network of cultural changemakers",
-      "url": "https://afield.org/announcements/",
-      "source": "AFIELD",
-      "location": "International",
-      "tags": [
-        "social-engagement",
-        "justice"
-      ],
-      "snippet": "an international network of cultural changemakers AFIELD is anchored in the fundamental belief that artists are essential to the fabric of society, as thinkers, visionaries and changemakers. By providing the resources and support, AFIELD believes in their profound capacity to lead transformational change in their communities and society as a whole. people program news open call",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:26.648255",
       "is_new": false
     }
   ]
