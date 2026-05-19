@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T10:06:27.656545",
-  "total": 60,
+  "generated_at": "2026-05-19T09:46:27.849168",
+  "total": 59,
   "calls": [
     {
       "id": "8a20546e823c",
@@ -1072,25 +1072,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
-      "is_new": false
-    },
-    {
-      "id": "d8e071a27a49",
-      "title": "Open Call for New Media Artists in The United States and Canada",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-new-media-artists-in-the-united-states-and-canada/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open Call for New Media Artists in The United States and Canada",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.071570",
       "is_new": false
     },
     {

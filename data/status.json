@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:06:27.656545",
+  "generated_at": "2026-05-19T09:46:27.849168",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "✅ 0 items",
+      "status": "❌ HTTP 403",
       "count": 0
     },
     {
@@ -138,8 +138,8 @@
       "name": "Delfina Foundation Open Calls",
       "type": "html",
       "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "status": "✅ 6 items",
-      "count": 6
+      "status": "✅ 5 items",
+      "count": 5
     },
     {
       "name": "AFIELD",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 5,
+    "ok": 11,
+    "failed": 6,
     "warned": 4
   }
 }
