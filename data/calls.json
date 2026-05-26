@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-05-25T10:08:37.780785",
-  "total": 59,
+  "generated_at": "2026-05-26T09:58:38.355121",
+  "total": 58,
   "calls": [
-    {
-      "id": "8a20546e823c",
-      "title": "Open call: Mediation projects 2026",
-      "url": "https://www.tabakalera.eus/en/open-call-mediation-projects-2026-0",
-      "source": "Tabakalera",
-      "location": "San Sebastián",
-      "tags": [
-        "tech",
-        "science",
-        "local-spain"
-      ],
-      "snippet": "EducationAPR 13 2026 (12:00) - MAY 25 2026 (12:00)Open call: Mediation projects 2026Read more",
-      "deadline": "2026-05-25T00:00:00",
-      "deadline_raw": "MAY 25 2026",
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:49:20.351551",
-      "is_new": false
-    },
-    {
-      "id": "0f81f10613c3",
-      "title": "See all the calls in the agenda",
-      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/open-calls/",
-      "source": "Tabakalera",
-      "location": "San Sebastián",
-      "tags": [
-        "tech",
-        "science",
-        "local-spain"
-      ],
-      "snippet": "CALLSCURRENTPASTContemporary art20 APR 2026 (12:00) - 01 JUN 2026 (12:00)Call for residency: Hospitalfield - Glasgow Sculpture Studios 2026Read moreEducationAPR 13 2026 (12:00) - MAY 25 2026 (12:00)Open call: Mediation projects 2026Read moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRead more2026202520242026Contemporar...",
-      "deadline": "2026-05-25T00:00:00",
-      "deadline_raw": "MAY 25 2026",
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:49:20.354207",
-      "is_new": false
-    },
     {
       "id": "6b3aea3ceb06",
       "title": "Call for residency: Hospitalfield - Glasgow Sculpture Studios 2026",
@@ -63,6 +21,27 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:49:20.351246",
+      "is_new": false
+    },
+    {
+      "id": "0f81f10613c3",
+      "title": "See all the calls in the agenda",
+      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/open-calls/",
+      "source": "Tabakalera",
+      "location": "San Sebastián",
+      "tags": [
+        "tech",
+        "science",
+        "local-spain"
+      ],
+      "snippet": "CALLSCURRENTPASTContemporary art20 APR 2026 (12:00) - 01 JUN 2026 (12:00)Call for residency: Hospitalfield - Glasgow Sculpture Studios 2026Read moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRead more2026202520242026Contemporary artMAR 02 2026 (12:00) - APR 13 2026 (15:00)Open Call: Residency for Artistic Projects 2026...",
+      "deadline": "2026-06-01T00:00:00",
+      "deadline_raw": "01 JUN 2026",
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-05-04T20:49:20.354207",
       "is_new": false
     },
     {
