@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T09:52:37.871275",
+  "generated_at": "2026-05-28T10:04:16.509148",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "✅ 0 items",
+      "status": "❌ HTTP 403",
       "count": 0
     },
     {
@@ -131,8 +131,8 @@
       "name": "Tabakalera",
       "type": "html",
       "url": "https://www.tabakalera.eus/en/artists-and-creators/agenda",
-      "status": "✅ 7 items",
-      "count": 7
+      "status": "✅ 8 items",
+      "count": 8
     },
     {
       "name": "Delfina Foundation Open Calls",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 5,
+    "ok": 11,
+    "failed": 6,
     "warned": 4
   }
 }
