@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:55:54.922778",
+  "generated_at": "2026-05-30T08:29:14.790559",
   "total": 59,
   "calls": [
     {
@@ -509,6 +509,24 @@
       "is_new": false
     },
     {
+      "id": "454602142169",
+      "title": "Open Call: The 7th VH AWARD for Media Artists Engaged with the Context of Asia",
+      "url": "https://hyperallergic.com/7th-vh-award-for-media-artists-engaged-with-the-context-of-asia/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Supporting media artists with production grants, global exhibitions, and an expanded online residency with Ars Electronica.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-05-30T08:29:41.408698",
+      "is_new": true
+    },
+    {
       "id": "3959653eefb4",
       "title": "Take Your Practice Further in a Visual Arts Residency at Banff Centre",
       "url": "https://hyperallergic.com/take-your-practice-further-in-a-visual-arts-residency-at-banff-centre/",
@@ -578,24 +596,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.822066",
-      "is_new": false
-    },
-    {
-      "id": "ab8c655d1521",
-      "title": "Apply for Rent-Free Studio Space in Brooklyn Through the Sharpe-Walentas Studio Program",
-      "url": "https://hyperallergic.com/apply-rent-free-artist-studio-brooklyn-sharpe-walentas-studio-program-2026-2027/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "The residency program awards 17 visual artists a year of rent-free studio space in New York City. Applications are due by January 15.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:25.822324",
       "is_new": false
     },
     {
