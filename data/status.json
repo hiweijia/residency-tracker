@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:36:54.037634",
+  "generated_at": "2026-06-02T10:25:27.279885",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -47,8 +47,8 @@
       "name": "Hyperallergic Opportunities",
       "type": "rss",
       "url": "https://hyperallergic.com/category/opportunities/feed/",
-      "status": "✅ 15 items",
-      "count": 15
+      "status": "❌ ReadTimeout",
+      "count": 0
     },
     {
       "name": "Akademie Schloss Solitude News",
@@ -124,15 +124,15 @@
       "name": "Medialab Matadero (Madrid)",
       "type": "html",
       "url": "https://www.medialab-matadero.es/en/announcements",
-      "status": "❌ ConnectTimeout",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {
       "name": "Tabakalera",
       "type": "html",
       "url": "https://www.tabakalera.eus/en/artists-and-creators/agenda",
-      "status": "✅ 8 items",
-      "count": 8
+      "status": "✅ 7 items",
+      "count": 7
     },
     {
       "name": "Delfina Foundation Open Calls",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 5,
+    "ok": 11,
+    "failed": 6,
     "warned": 4
   }
 }
