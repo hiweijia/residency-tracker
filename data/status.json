@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:25:27.279885",
+  "generated_at": "2026-06-03T11:01:29.898576",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -47,8 +47,8 @@
       "name": "Hyperallergic Opportunities",
       "type": "rss",
       "url": "https://hyperallergic.com/category/opportunities/feed/",
-      "status": "❌ ReadTimeout",
-      "count": 0
+      "status": "✅ 15 items",
+      "count": 15
     },
     {
       "name": "Akademie Schloss Solitude News",
@@ -61,15 +61,15 @@
       "name": "Hangar Barcelona",
       "type": "html",
       "url": "https://hangar.org/en/category/convocatories-3/",
-      "status": "✅ 6 items",
-      "count": 6
+      "status": "✅ 7 items",
+      "count": 7
     },
     {
       "name": "Sant Andreu Contemporani",
       "type": "html",
       "url": "https://santandreucontemporani.org/es/convocatorias-es/",
-      "status": "✅ 27 items",
-      "count": 27
+      "status": "✅ 0 items",
+      "count": 0
     },
     {
       "name": "Santa Mònica",
@@ -103,15 +103,15 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "✅ 0 items",
+      "status": "❌ HTTP 403",
       "count": 0
     },
     {
       "name": "Fabra i Coats Fàbriques de Creació",
       "type": "html",
       "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news",
-      "status": "✅ 3 items",
-      "count": 3
+      "status": "❌ HTTP 403",
+      "count": 0
     },
     {
       "name": "Piramidón",
@@ -138,8 +138,8 @@
       "name": "Delfina Foundation Open Calls",
       "type": "html",
       "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "status": "✅ 5 items",
-      "count": 5
+      "status": "❌ HTTP 403",
+      "count": 0
     },
     {
       "name": "AFIELD",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 11,
-    "failed": 6,
+    "ok": 9,
+    "failed": 8,
     "warned": 4
   }
 }
