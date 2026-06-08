@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T08:57:01.872351",
+  "generated_at": "2026-06-08T10:58:12.496027",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -68,8 +68,8 @@
       "name": "Sant Andreu Contemporani",
       "type": "html",
       "url": "https://santandreucontemporani.org/es/convocatorias-es/",
-      "status": "✅ 0 items",
-      "count": 0
+      "status": "✅ 27 items",
+      "count": 27
     },
     {
       "name": "Santa Mònica",
@@ -110,8 +110,8 @@
       "name": "Fabra i Coats Fàbriques de Creació",
       "type": "html",
       "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news",
-      "status": "❌ HTTP 403",
-      "count": 0
+      "status": "✅ 3 items",
+      "count": 3
     },
     {
       "name": "Piramidón",
@@ -138,8 +138,8 @@
       "name": "Delfina Foundation Open Calls",
       "type": "html",
       "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "status": "❌ HTTP 403",
-      "count": 0
+      "status": "✅ 5 items",
+      "count": 5
     },
     {
       "name": "AFIELD",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 10,
-    "failed": 7,
+    "ok": 12,
+    "failed": 5,
     "warned": 4
   }
 }
