@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T09:46:20.576217",
-  "total": 32,
+  "generated_at": "2026-06-10T10:02:22.397210",
+  "total": 27,
   "calls": [
     {
       "id": "7e075f4b441b",
@@ -14,8 +14,8 @@
         "local-spain"
       ],
       "snippet": "Contemporary artOPEN CALL: 16 APR (12:00) - 03 JUN 2026 (12:00) | WORKSHOP: 18-21 JUN 2026Is Spring a Sculpture? Read more",
-      "deadline": "2026-06-03T00:00:00",
-      "deadline_raw": "03 JUN 2026",
+      "deadline": "2026-06-21T00:00:00",
+      "deadline_raw": "21 JUN 2026",
       "priority_score": 1,
       "matched_keywords": [
         "2026"
@@ -35,8 +35,8 @@
         "local-spain"
       ],
       "snippet": "CALLSCURRENTPASTContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRead more2026202520242026Contemporary art20 APR 2026 (12:00) - 01 JUN 2026 (12:00)Call for residency: Hospitalfield - Glasgow Sculpture Studios 2026Read moreContemporary artOPEN CALL: 16 APR (12:00) - 03 JUN 2026 (12:00) | WORKSHOP: 18-21 JUN 2026Is Spring a Sc...",
-      "deadline": "2026-06-03T00:00:00",
-      "deadline_raw": "03 JUN 2026",
+      "deadline": "2026-06-21T00:00:00",
+      "deadline_raw": "21 JUN 2026",
       "priority_score": 1,
       "matched_keywords": [
         "2026"
@@ -528,101 +528,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:35.918795",
-      "is_new": false
-    },
-    {
-      "id": "38b0b83a4be4",
-      "title": "Open Calls",
-      "url": "https://www.delfinafoundation.com/open-calls/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open Calls",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.071084",
-      "is_new": false
-    },
-    {
-      "id": "9f709b6ee280",
-      "title": "Current Open Calls",
-      "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Current Open Calls",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.071425",
-      "is_new": false
-    },
-    {
-      "id": "8c2e47878527",
-      "title": "Open Call for Artists from Kazakhstan",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-kazakhstan/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open Call for Artists from Kazakhstan",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.071728",
-      "is_new": false
-    },
-    {
-      "id": "6cc787af86a2",
-      "title": "Our Residency Programme",
-      "url": "https://www.delfinafoundation.com/open-calls/about-residency-programme/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Our Residency Programme",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.071866",
-      "is_new": false
-    },
-    {
-      "id": "02bc0fc671b3",
-      "title": "Noor Abuarafeh: Rumours Began Some Time Ago",
-      "url": "https://www.delfinafoundation.com/platform/residency-project-noor-abuarafeh/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Noor Abuarafeh: Rumours Began Some Time Ago Uncovering the story behind an archival photo Residency Project",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.072603",
       "is_new": false
     }
   ]
