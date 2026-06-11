@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:02:22.397210",
+  "generated_at": "2026-06-11T10:27:10.759182",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -68,8 +68,8 @@
       "name": "Sant Andreu Contemporani",
       "type": "html",
       "url": "https://santandreucontemporani.org/es/convocatorias-es/",
-      "status": "✅ 0 items",
-      "count": 0
+      "status": "✅ 27 items",
+      "count": 27
     },
     {
       "name": "Santa Mònica",
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "❌ HTTP 403",
+      "status": "✅ 0 items",
       "count": 0
     },
     {
@@ -124,7 +124,7 @@
       "name": "Medialab Matadero (Madrid)",
       "type": "html",
       "url": "https://www.medialab-matadero.es/en/announcements",
-      "status": "❌ ConnectTimeout",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {
@@ -138,8 +138,8 @@
       "name": "Delfina Foundation Open Calls",
       "type": "html",
       "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "status": "❌ ConnectTimeout",
-      "count": 0
+      "status": "✅ 5 items",
+      "count": 5
     },
     {
       "name": "AFIELD",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 10,
-    "failed": 7,
+    "ok": 12,
+    "failed": 5,
     "warned": 4
   }
 }
