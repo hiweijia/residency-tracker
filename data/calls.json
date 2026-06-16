@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T12:16:43.265527",
-  "total": 58,
+  "generated_at": "2026-06-16T11:12:10.493477",
+  "total": 57,
   "calls": [
     {
       "id": "7e075f4b441b",
@@ -64,6 +64,28 @@
       ],
       "first_seen": "2026-05-04T20:49:20.351905",
       "is_new": false
+    },
+    {
+      "id": "7d8d24ec300e",
+      "title": "espais c. Residency in a Public Primary School 2026–2027",
+      "url": "https://hangar.org/en/convocatories-3/espais-c-2026-2027/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "espais c. Residency in a Public Primary School 2026–2027",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 2,
+      "matched_keywords": [
+        "2026",
+        "2027"
+      ],
+      "first_seen": "2026-06-16T11:12:41.852366",
+      "is_new": true
     },
     {
       "id": "142dac030d84",
@@ -675,25 +697,6 @@
       "is_new": false
     },
     {
-      "id": "189eb05dec09",
-      "title": "Encura VIII: Curatorial Research Residency between Barcelona and Madrid",
-      "url": "https://hangar.org/en/convocatories-3/encura-2025/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Encura VIII: Curatorial Research Residency between Barcelona and Madrid",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:30.613198",
-      "is_new": false
-    },
-    {
       "id": "35d6147524a5",
       "title": "Convocatoria Miquel Casablancas",
       "url": "https://santandreucontemporani.org/es/convocatorias/miquel-casablancas-es/",
@@ -1053,25 +1056,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
-      "is_new": false
-    },
-    {
-      "id": "8c2e47878527",
-      "title": "Open Call for Artists from Kazakhstan",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-kazakhstan/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open Call for Artists from Kazakhstan",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:49:24.071728",
       "is_new": false
     },
     {
