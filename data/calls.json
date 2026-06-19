@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-06-18T10:22:09.591994",
-  "total": 57,
+  "generated_at": "2026-06-19T10:27:23.008183",
+  "total": 58,
   "calls": [
+    {
+      "id": "bce8213b2499",
+      "title": "See all the activities in the agenda",
+      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/",
+      "source": "Tabakalera",
+      "location": "San Sebastián",
+      "tags": [
+        "tech",
+        "science",
+        "local-spain"
+      ],
+      "snippet": "ACTIVITIES FOR ARTISTS AND CREATORSCURRENTPASTContemporary art20 Jun 2026 | 19:00\"Becoming Sculpture\" Rie Nakajima, Makoto Oshiro and David ToopRead more2026202520242023202220192017201620152026Contemporary art18 Jun 2026 | 19:00âWhat is sculpture?â with David Toop, Makoto Oshiro and Rie NakajimaRead moreContemporary artOPEN CALL: 16 APR (12:00) - 03 JUN 2026 (12:00) | WORKSHOP: 18-21 JUN 2026Is Spring a Sculpture? Read moreContemporary art13 Mar 2026 | 17:00Open Studios. 2026 MarchRead moreS...",
+      "deadline": "2026-06-18T00:00:00",
+      "deadline_raw": "18 Jun 2026",
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-06-19T10:28:49.028998",
+      "is_new": true
+    },
     {
       "id": "7e075f4b441b",
       "title": "Contemporary artOPEN CALL: 16 APR (12:00) - 03 JUN 2026 (12:00) | WORKSHOP: 18-21 JUN 2026Is Spring a Sculpture? Read more",
