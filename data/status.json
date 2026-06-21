@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T08:58:01.116298",
+  "generated_at": "2026-06-21T09:51:28.344005",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -61,8 +61,8 @@
       "name": "Hangar Barcelona",
       "type": "html",
       "url": "https://hangar.org/en/category/convocatories-3/",
-      "status": "✅ 7 items",
-      "count": 7
+      "status": "❌ ConnectTimeout",
+      "count": 0
     },
     {
       "name": "Sant Andreu Contemporani",
@@ -89,7 +89,7 @@
       "name": "La Escocesa",
       "type": "html",
       "url": "https://laescocesa.org/en/news/",
-      "status": "❌ HTTP 404",
+      "status": "❌ ConnectTimeout",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 5,
+    "ok": 11,
+    "failed": 6,
     "warned": 4
   }
 }

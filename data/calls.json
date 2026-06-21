@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T08:58:01.116298",
-  "total": 58,
+  "generated_at": "2026-06-21T09:51:28.344005",
+  "total": 51,
   "calls": [
     {
       "id": "bce8213b2499",
@@ -13,7 +13,7 @@
         "science",
         "local-spain"
       ],
-      "snippet": "ACTIVITIES FOR ARTISTS AND CREATORSCURRENTPASTContemporary art20 Jun 2026 | 19:00\"Becoming Sculpture\" Rie Nakajima, Makoto Oshiro and David ToopRead more2026202520242023202220192017201620152026Contemporary art18 Jun 2026 | 19:00âWhat is sculpture?â with David Toop, Makoto Oshiro and Rie NakajimaRead moreContemporary artOPEN CALL: 16 APR (12:00) - 03 JUN 2026 (12:00) | WORKSHOP: 18-21 JUN 2026Is Spring a Sculpture? Read moreContemporary art13 Mar 2026 | 17:00Open Studios. 2026 MarchRead moreS...",
+      "snippet": "ACTIVITIES FOR ARTISTS AND CREATORSPAST2026202520242023202220192017201620152026Contemporary art20 Jun 2026 | 19:00\"Becoming Sculpture\" Rie Nakajima, Makoto Oshiro and David ToopRead moreContemporary art18 Jun 2026 | 19:00âWhat is sculpture?â with David Toop, Makoto Oshiro and Rie NakajimaRead moreContemporary artOPEN CALL: 16 APR (12:00) - 03 JUN 2026 (12:00) | WORKSHOP: 18-21 JUN 2026Is Spring a Sculpture? Read moreContemporary art13 Mar 2026 | 17:00Open Studios. 2026 MarchRead moreSee all ...",
       "deadline": "2026-06-18T00:00:00",
       "deadline_raw": "18 Jun 2026",
       "priority_score": 1,
@@ -84,28 +84,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:49:20.351905",
-      "is_new": false
-    },
-    {
-      "id": "7d8d24ec300e",
-      "title": "espais c. Residency in a Public Primary School 2026–2027",
-      "url": "https://hangar.org/en/convocatories-3/espais-c-2026-2027/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "espais c. Residency in a Public Primary School 2026–2027",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 2,
-      "matched_keywords": [
-        "2026",
-        "2027"
-      ],
-      "first_seen": "2026-06-16T11:12:41.852366",
       "is_new": false
     },
     {
@@ -327,27 +305,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:28.198939",
-      "is_new": false
-    },
-    {
-      "id": "ac83b673c35c",
-      "title": "Open Call for a Research Residency at Pivô Salvador in Salvador de Bahia, Brazil 2026",
-      "url": "https://hangar.org/en/convocatories-3/convocatoria-pivo-2026/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Open Call for a Research Residency at Pivô Salvador in Salvador de Bahia, Brazil 2026",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:30.611719",
       "is_new": false
     },
     {
@@ -620,101 +577,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.821814",
-      "is_new": false
-    },
-    {
-      "id": "2993cb223079",
-      "title": "Encura IX: Curatorial research residency between Barcelona and Bilbao",
-      "url": "https://hangar.org/en/convocatories-3/encura-ix/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Encura IX: Curatorial research residency between Barcelona and Bilbao",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-06-03T11:02:00.939853",
-      "is_new": false
-    },
-    {
-      "id": "320c35c9296a",
-      "title": "Open call for a research residency at MeetFactory, Prague",
-      "url": "https://hangar.org/en/convocatories-3/convocatoria-abierta-para-una-residencia-de-investigacion-en-meetfactory-praga/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Open call for a research residency at MeetFactory, Prague",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:30.610069",
-      "is_new": false
-    },
-    {
-      "id": "c3928c98c116",
-      "title": "Open Call for a Research Residency at MORPHO, Antwerp",
-      "url": "https://hangar.org/en/convocatories-3/convocatoria-morpho-amberes/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Open Call for a Research Residency at MORPHO, Antwerp",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:30.610366",
-      "is_new": false
-    },
-    {
-      "id": "bf8ac876fbc9",
-      "title": "Open call for a research residency at La Nueva Fábrica in Antigua (Guatemala)",
-      "url": "https://hangar.org/en/convocatories-3/convocatoria-la-nueva-fabrica/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Open call for a research residency at La Nueva Fábrica in Antigua (Guatemala)",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:30.611900",
-      "is_new": false
-    },
-    {
-      "id": "0128b824f460",
-      "title": "Open call for cross-residencies between Hangar and Triangle-Astérides (Marseille)",
-      "url": "https://hangar.org/en/convocatories-3/residencia-bcn-marsella-2025/",
-      "source": "Hangar Barcelona",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "tech",
-        "international"
-      ],
-      "snippet": "Open call for cross-residencies between Hangar and Triangle-Astérides (Marseille)",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:30.612550",
       "is_new": false
     },
     {
