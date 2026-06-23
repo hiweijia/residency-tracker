@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:56:39.606450",
+  "generated_at": "2026-06-23T09:40:35.377678",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -68,8 +68,8 @@
       "name": "Sant Andreu Contemporani",
       "type": "html",
       "url": "https://santandreucontemporani.org/es/convocatorias-es/",
-      "status": "✅ 0 items",
-      "count": 0
+      "status": "✅ 27 items",
+      "count": 27
     },
     {
       "name": "Santa Mònica",
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "❌ HTTP 403",
+      "status": "✅ 0 items",
       "count": 0
     },
     {
@@ -138,8 +138,8 @@
       "name": "Delfina Foundation Open Calls",
       "type": "html",
       "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "status": "✅ 0 items",
-      "count": 0
+      "status": "✅ 4 items",
+      "count": 4
     },
     {
       "name": "AFIELD",
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 10,
-    "failed": 7,
+    "ok": 11,
+    "failed": 6,
     "warned": 4
   }
 }
