@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T09:40:35.377678",
-  "total": 52,
+  "generated_at": "2026-06-24T09:31:45.733792",
+  "total": 59,
   "calls": [
     {
       "id": "bce8213b2499",
@@ -107,6 +107,28 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:49:20.351905",
+      "is_new": false
+    },
+    {
+      "id": "7d8d24ec300e",
+      "title": "espais c. Residency in a Public Primary School 2026–2027",
+      "url": "https://hangar.org/en/convocatories-3/espais-c-2026-2027/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "espais c. Residency in a Public Primary School 2026–2027",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 2,
+      "matched_keywords": [
+        "2026",
+        "2027"
+      ],
+      "first_seen": "2026-06-16T11:12:41.852366",
       "is_new": false
     },
     {
@@ -329,6 +351,47 @@
       ],
       "first_seen": "2026-05-04T20:48:28.198939",
       "is_new": false
+    },
+    {
+      "id": "ac83b673c35c",
+      "title": "Open Call for a Research Residency at Pivô Salvador in Salvador de Bahia, Brazil 2026",
+      "url": "https://hangar.org/en/convocatories-3/convocatoria-pivo-2026/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "Open Call for a Research Residency at Pivô Salvador in Salvador de Bahia, Brazil 2026",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-05-04T20:48:30.611719",
+      "is_new": false
+    },
+    {
+      "id": "aca69f370351",
+      "title": "Ganadorxs Convocatoria Miquel Casablancas 2026",
+      "url": "https://santandreucontemporani.org/es/convocatorias-es/ganadorxs-convocatoria-miquel-casablancas-2026/",
+      "source": "Sant Andreu Contemporani",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "low-competition"
+      ],
+      "snippet": "19 | 06 | 26Ganadorxs Convocatoria Miquel Casablancas 2026 Miquel CasablancasConvocatorias",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-06-24T09:32:20.224442",
+      "is_new": true
     },
     {
       "id": "adaf218634e7",
@@ -600,6 +663,101 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.821814",
+      "is_new": false
+    },
+    {
+      "id": "2993cb223079",
+      "title": "Encura IX: Curatorial research residency between Barcelona and Bilbao",
+      "url": "https://hangar.org/en/convocatories-3/encura-ix/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "Encura IX: Curatorial research residency between Barcelona and Bilbao",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-06-03T11:02:00.939853",
+      "is_new": false
+    },
+    {
+      "id": "320c35c9296a",
+      "title": "Open call for a research residency at MeetFactory, Prague",
+      "url": "https://hangar.org/en/convocatories-3/convocatoria-abierta-para-una-residencia-de-investigacion-en-meetfactory-praga/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "Open call for a research residency at MeetFactory, Prague",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-05-04T20:48:30.610069",
+      "is_new": false
+    },
+    {
+      "id": "c3928c98c116",
+      "title": "Open Call for a Research Residency at MORPHO, Antwerp",
+      "url": "https://hangar.org/en/convocatories-3/convocatoria-morpho-amberes/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "Open Call for a Research Residency at MORPHO, Antwerp",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-05-04T20:48:30.610366",
+      "is_new": false
+    },
+    {
+      "id": "bf8ac876fbc9",
+      "title": "Open call for a research residency at La Nueva Fábrica in Antigua (Guatemala)",
+      "url": "https://hangar.org/en/convocatories-3/convocatoria-la-nueva-fabrica/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "Open call for a research residency at La Nueva Fábrica in Antigua (Guatemala)",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-05-04T20:48:30.611900",
+      "is_new": false
+    },
+    {
+      "id": "0128b824f460",
+      "title": "Open call for cross-residencies between Hangar and Triangle-Astérides (Marseille)",
+      "url": "https://hangar.org/en/convocatories-3/residencia-bcn-marsella-2025/",
+      "source": "Hangar Barcelona",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "tech",
+        "international"
+      ],
+      "snippet": "Open call for cross-residencies between Hangar and Triangle-Astérides (Marseille)",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-05-04T20:48:30.612550",
       "is_new": false
     },
     {
@@ -888,24 +1046,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:33.585962",
-      "is_new": false
-    },
-    {
-      "id": "d15cdb27eb52",
-      "title": "Resolución convocatoria SAC International Curatorial Residency Program 2024",
-      "url": "https://santandreucontemporani.org/es/convocatorias-es/resolucion-convocatoria-sac-international-curatorial-residency-program-2024/",
-      "source": "Sant Andreu Contemporani",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "low-competition"
-      ],
-      "snippet": "18 | 10 | 24Resolución convocatoria SAC International Curatorial Residency Program 2024 SAC International Curatorial Residency ProgramConvocatorias",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:33.586264",
       "is_new": false
     },
     {
