@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T09:23:42.998079",
-  "total": 59,
+  "generated_at": "2026-06-26T09:28:41.065339",
+  "total": 60,
   "calls": [
     {
       "id": "bce8213b2499",
@@ -65,6 +65,26 @@
       ],
       "first_seen": "2026-05-28T10:06:05.951345",
       "is_new": false
+    },
+    {
+      "id": "c276dac209f6",
+      "title": "26.06.2026 Residency in a Public Primary School 2026–2027",
+      "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news/residency-public-primary-school-2026-2027",
+      "source": "Fabra i Coats Fàbriques de Creació",
+      "location": "Barcelona",
+      "tags": [
+        "local"
+      ],
+      "snippet": "26.06.2026 Residency in a Public Primary School 2026–2027 Hangar is seeking an artist to undertake a creative residency in a public primary school in Barcelona during the 2026–2027 academic year. Read more",
+      "deadline": "2026-06-26T00:00:00",
+      "deadline_raw": "26.06.2026",
+      "priority_score": 2,
+      "matched_keywords": [
+        "2026",
+        "2027"
+      ],
+      "first_seen": "2026-06-26T09:29:48.953711",
+      "is_new": true
     },
     {
       "id": "008de5570d16",
