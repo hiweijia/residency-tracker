@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:37:23.932747",
+  "generated_at": "2026-07-01T09:48:44.579166",
   "total": 58,
   "calls": [
     {
@@ -108,6 +108,46 @@
       ],
       "first_seen": "2026-06-16T11:12:41.852366",
       "is_new": false
+    },
+    {
+      "id": "e81131048186",
+      "title": "A $90,000 Graduate Fellowship for Immigrants & Children of Immigrants in the Visual Arts",
+      "url": "https://hyperallergic.com/a-90-000-graduate-fellowship-for-immigrants-children-of-immigrants-in-the-visual-arts/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "The Paul & Daisy Soros Fellowships for New Americans supports immigrants & children of immigrants in MFA, MA, PhD & other graduate programs.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "migrant"
+      ],
+      "first_seen": "2026-07-01T09:49:11.304837",
+      "is_new": true
+    },
+    {
+      "id": "8d89d5963021",
+      "title": "Announcing the 2026 McKnight Visual Artist Fellows",
+      "url": "https://hyperallergic.com/announcing-the-2026-mcknight-visual-artist-fellows/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Designed to support mid-career Minnesota artists, the fellowship provides each recipient with a $25,000 stipend, professional development, a residency, and more.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-07-01T09:49:11.305148",
+      "is_new": true
     },
     {
       "id": "142dac030d84",
@@ -287,26 +327,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:25.821252",
-      "is_new": false
-    },
-    {
-      "id": "1ab9f83207ee",
-      "title": "Onassis AiR Opens Applications for 2026–27 Residencies in Athens",
-      "url": "https://hyperallergic.com/onassis-air-opens-applications-for-2026-27-residencies-in-athens/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Participants receive an artist’s fee, a research budget, housing, round-trip travel, mentoring, and other resources to support their work.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:25.821535",
       "is_new": false
     },
     {
@@ -623,24 +643,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.820746",
-      "is_new": false
-    },
-    {
-      "id": "bb539c57f25c",
-      "title": "Request for Proposals: Operator for the Harlem African Burial Ground Cultural Education Center",
-      "url": "https://hyperallergic.com/request-for-proposals-operator-for-the-harlem-african-burial-ground-cultural-education-center/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Learn about this opportunity to develop a cultural education center at the historic East Harlem site during informational sessions in January and February.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:25.821814",
       "is_new": false
     },
     {
