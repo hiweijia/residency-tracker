@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T09:48:44.579166",
+  "generated_at": "2026-07-02T08:57:22.457631",
   "total": 58,
   "calls": [
     {
@@ -110,6 +110,26 @@
       "is_new": false
     },
     {
+      "id": "d54485a818f6",
+      "title": "Opportunities in July 2026",
+      "url": "https://hyperallergic.com/opportunities-in-july-2026/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Residencies, fellowships, grants, and open calls from the Paul & Daisy Soros Foundation, Ucross, AICA International, and more in our monthly list of opportunities for artists, writers, and art workers.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-07-02T08:57:48.335542",
+      "is_new": true
+    },
+    {
       "id": "e81131048186",
       "title": "A $90,000 Graduate Fellowship for Immigrants & Children of Immigrants in the Visual Arts",
       "url": "https://hyperallergic.com/a-90-000-graduate-fellowship-for-immigrants-children-of-immigrants-in-the-visual-arts/",
@@ -127,7 +147,7 @@
         "migrant"
       ],
       "first_seen": "2026-07-01T09:49:11.304837",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8d89d5963021",
@@ -147,7 +167,7 @@
         "2026"
       ],
       "first_seen": "2026-07-01T09:49:11.305148",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "142dac030d84",
@@ -307,26 +327,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:25.820997",
-      "is_new": false
-    },
-    {
-      "id": "25752bcc3b13",
-      "title": "Opportunities in February 2026",
-      "url": "https://hyperallergic.com/opportunities-in-february-2026/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Residencies, fellowships, grants, open calls, and jobs from the Helen Frankenthaler Foundation, the Rubin Museum, and more in our monthly list of opportunities for artists, writers, and art workers.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:25.821252",
       "is_new": false
     },
     {
