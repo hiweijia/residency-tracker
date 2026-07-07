@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:23:33.382604",
+  "generated_at": "2026-07-07T09:42:21.242597",
   "total": 57,
   "calls": [
     {
@@ -310,27 +310,6 @@
       "is_new": false
     },
     {
-      "id": "83d5a95f285b",
-      "title": "Golschan Ahmad Haschemi Receives the Marie Zimmermann Fellowship for Dramaturgy 2026",
-      "url": "https://www.akademie-solitude.de/en/news/das-marie-zimmermann-stipendium-fuer-dramaturgie-2026-geht-an-golschan-ahmad-haschemi/",
-      "source": "Akademie Schloss Solitude News",
-      "location": "Stuttgart, DE",
-      "tags": [
-        "tech",
-        "web-residency",
-        "prestigious"
-      ],
-      "snippet": "",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:28.198939",
-      "is_new": false
-    },
-    {
       "id": "ac83b673c35c",
       "title": "Open Call for a Research Residency at Pivô Salvador in Salvador de Bahia, Brazil 2026",
       "url": "https://hangar.org/en/convocatories-3/convocatoria-pivo-2026/",
@@ -624,6 +603,25 @@
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.820746",
       "is_new": false
+    },
+    {
+      "id": "00d63e4bc8eb",
+      "title": "Call for Web Residencies N° 22 »Ignore All Previous Instructions«",
+      "url": "https://www.akademie-solitude.de/en/news/ausschreibung-fuer-web-residencies-n-22-ignore-all-previous-instructions/",
+      "source": "Akademie Schloss Solitude News",
+      "location": "Stuttgart, DE",
+      "tags": [
+        "tech",
+        "web-residency",
+        "prestigious"
+      ],
+      "snippet": "",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-07-07T09:42:50.121487",
+      "is_new": true
     },
     {
       "id": "2993cb223079",
