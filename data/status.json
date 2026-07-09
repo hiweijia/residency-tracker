@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:29:21.101765",
+  "generated_at": "2026-07-09T09:40:18.932670",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -33,7 +33,7 @@
       "name": "a-n News",
       "type": "rss",
       "url": "https://www.a-n.co.uk/feed/",
-      "status": "⚠️ no items in feed",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {
@@ -138,8 +138,8 @@
       "name": "Delfina Foundation Open Calls",
       "type": "html",
       "url": "https://www.delfinafoundation.com/open-calls/current/",
-      "status": "✅ 4 items",
-      "count": 4
+      "status": "✅ 5 items",
+      "count": 5
     },
     {
       "name": "AFIELD",
@@ -152,7 +152,7 @@
   "summary": {
     "total_sources": 21,
     "ok": 12,
-    "failed": 5,
-    "warned": 4
+    "failed": 6,
+    "warned": 3
   }
 }

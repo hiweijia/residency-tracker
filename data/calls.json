@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T08:29:21.101765",
-  "total": 57,
+  "generated_at": "2026-07-09T09:40:18.932670",
+  "total": 58,
   "calls": [
     {
       "id": "008de5570d16",
@@ -1061,6 +1061,25 @@
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
       "is_new": false
+    },
+    {
+      "id": "52757912951f",
+      "title": "Open call with the Mondriaan Fund",
+      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-with-the-mondriaan-fund/",
+      "source": "Delfina Foundation Open Calls",
+      "location": "London",
+      "tags": [
+        "postcolonial",
+        "women",
+        "prestigious"
+      ],
+      "snippet": "Open call with the Mondriaan Fund",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-07-09T09:41:48.780664",
+      "is_new": true
     },
     {
       "id": "6cc787af86a2",
