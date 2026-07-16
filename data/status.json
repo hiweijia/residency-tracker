@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:11:10.432117",
+  "generated_at": "2026-07-16T08:14:41.319219",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -54,8 +54,8 @@
       "name": "Akademie Schloss Solitude News",
       "type": "rss",
       "url": "https://www.akademie-solitude.de/en/news/feed/",
-      "status": "✅ 1 items",
-      "count": 1
+      "status": "✅ 2 items",
+      "count": 2
     },
     {
       "name": "Hangar Barcelona",
@@ -124,7 +124,7 @@
       "name": "Medialab Matadero (Madrid)",
       "type": "html",
       "url": "https://www.medialab-matadero.es/en/announcements",
-      "status": "❌ HTTP 503",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {

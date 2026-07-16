@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T08:11:10.432117",
-  "total": 58,
+  "generated_at": "2026-07-16T08:14:41.319219",
+  "total": 59,
   "calls": [
     {
       "id": "008de5570d16",
@@ -307,6 +307,27 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:25.820997",
+      "is_new": false
+    },
+    {
+      "id": "83d5a95f285b",
+      "title": "Golschan Ahmad Haschemi Receives the Marie Zimmermann Fellowship for Dramaturgy 2026",
+      "url": "https://www.akademie-solitude.de/en/news/das-marie-zimmermann-stipendium-fuer-dramaturgie-2026-geht-an-golschan-ahmad-haschemi/",
+      "source": "Akademie Schloss Solitude News",
+      "location": "Stuttgart, DE",
+      "tags": [
+        "tech",
+        "web-residency",
+        "prestigious"
+      ],
+      "snippet": "",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-05-04T20:48:28.198939",
       "is_new": false
     },
     {
