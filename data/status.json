@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:14:41.319219",
+  "generated_at": "2026-07-17T08:10:32.076107",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -54,8 +54,8 @@
       "name": "Akademie Schloss Solitude News",
       "type": "rss",
       "url": "https://www.akademie-solitude.de/en/news/feed/",
-      "status": "✅ 2 items",
-      "count": 2
+      "status": "✅ 1 items",
+      "count": 1
     },
     {
       "name": "Hangar Barcelona",
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "✅ 0 items",
+      "status": "❌ HTTP 403",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 6,
+    "ok": 11,
+    "failed": 7,
     "warned": 3
   }
 }
