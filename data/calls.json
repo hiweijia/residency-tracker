@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T09:14:43.636961",
-  "total": 59,
+  "generated_at": "2026-07-21T08:29:52.910479",
+  "total": 60,
   "calls": [
     {
       "id": "6231445c174d",
@@ -20,6 +20,26 @@
       ],
       "first_seen": "2026-07-18T07:51:57.541938",
       "is_new": false
+    },
+    {
+      "id": "3e755f39d3f3",
+      "title": "20.07.2026 Applications are now open for the 2027 residency programme at Fabra i Coats: Fàbrica de Creació",
+      "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news/applications-are-now-open-2027-residency-programme-fabra-i-coats-fabrica-de-creacio",
+      "source": "Fabra i Coats Fàbriques de Creació",
+      "location": "Barcelona",
+      "tags": [
+        "local"
+      ],
+      "snippet": "20.07.2026 Applications are now open for the 2027 residency programme at Fabra i Coats: Fàbrica de Creació Applications are open until 15 September for three residency programmes: music projects, artistic projects and... Read more",
+      "deadline": "2026-07-20T00:00:00",
+      "deadline_raw": "20.07.2026",
+      "priority_score": 2,
+      "matched_keywords": [
+        "2026",
+        "2027"
+      ],
+      "first_seen": "2026-07-21T08:31:06.651293",
+      "is_new": true
     },
     {
       "id": "008de5570d16",
