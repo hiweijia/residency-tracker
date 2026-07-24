@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-23T08:31:13.020101",
-  "total": 60,
+  "generated_at": "2026-07-24T08:27:58.911081",
+  "total": 59,
   "calls": [
-    {
-      "id": "6231445c174d",
-      "title": "17.07.2026 Nau Ivanow announces the results of the first call for its new residency programme",
-      "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news/nau-ivanow-announces-results-first-call-its-new-residency-programme",
-      "source": "Fabra i Coats Fàbriques de Creació",
-      "location": "Barcelona",
-      "tags": [
-        "local"
-      ],
-      "snippet": "17.07.2026 Nau Ivanow announces the results of the first call for its new residency programme Five projects have been selected and will begin their residencies in September.... Read more",
-      "deadline": "2026-07-17T00:00:00",
-      "deadline_raw": "17.07.2026",
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-07-18T07:51:57.541938",
-      "is_new": false
-    },
     {
       "id": "3e755f39d3f3",
       "title": "20.07.2026 Applications are now open for the 2027 residency programme at Fabra i Coats: Fàbrica de Creació",
