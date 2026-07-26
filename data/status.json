@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:06:43.373991",
+  "generated_at": "2026-07-26T08:26:23.383254",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -89,7 +89,7 @@
       "name": "La Escocesa",
       "type": "html",
       "url": "https://laescocesa.org/en/news/",
-      "status": "❌ HTTP 404",
+      "status": "❌ HTTP 502",
       "count": 0
     },
     {
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "✅ 0 items",
+      "status": "❌ ConnectionError",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 6,
+    "ok": 11,
+    "failed": 7,
     "warned": 3
   }
 }
