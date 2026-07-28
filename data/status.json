@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:52:54.250399",
+  "generated_at": "2026-07-28T08:34:24.824935",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -89,7 +89,7 @@
       "name": "La Escocesa",
       "type": "html",
       "url": "https://laescocesa.org/en/news/",
-      "status": "❌ HTTP 502",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {
