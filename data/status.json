@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:27:03.673774",
+  "generated_at": "2026-07-31T08:50:05.266204",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "❌ ConnectionError",
+      "status": "✅ 0 items",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 11,
-    "failed": 7,
+    "ok": 12,
+    "failed": 6,
     "warned": 3
   }
 }
