@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T08:36:43.511376",
+  "generated_at": "2026-08-05T08:36:21.237080",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -96,7 +96,7 @@
       "name": "Homesession",
       "type": "html",
       "url": "https://www.homesession.org/",
-      "status": "✅ 0 items",
+      "status": "❌ ConnectTimeout",
       "count": 0
     },
     {
@@ -117,14 +117,14 @@
       "name": "Piramidón",
       "type": "html",
       "url": "https://www.piramidon.com/en/",
-      "status": "✅ 0 items",
+      "status": "❌ ConnectTimeout",
       "count": 0
     },
     {
       "name": "Medialab Matadero (Madrid)",
       "type": "html",
       "url": "https://www.medialab-matadero.es/en/announcements",
-      "status": "❌ ConnectTimeout",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 11,
-    "failed": 7,
+    "ok": 9,
+    "failed": 9,
     "warned": 3
   }
 }
