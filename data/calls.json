@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-08-10T07:41:54.170932",
-  "total": 60,
+  "generated_at": "2026-08-11T07:07:34.765531",
+  "total": 59,
   "calls": [
-    {
-      "id": "0f81f10613c3",
-      "title": "See all the calls in the agenda",
-      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/open-calls/",
-      "source": "Tabakalera",
-      "location": "San Sebastián",
-      "tags": [
-        "tech",
-        "science",
-        "local-spain"
-      ],
-      "snippet": "CALLSCURRENTPASTCinema and audiovisualOPEN CALL: 06/08/2026 (12:00) -26/08/2026 (12:00) | WORKSHOP: 8-9/09/2026Tiempo muerto. Isabel HergueraESRead moreContemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic Projects 2027 (Winter)Read moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRea...",
-      "deadline": "2026-08-06T00:00:00",
-      "deadline_raw": "06/08/2026",
-      "priority_score": 2,
-      "matched_keywords": [
-        "2026",
-        "2027"
-      ],
-      "first_seen": "2026-05-04T20:49:20.354207",
-      "is_new": false
-    },
     {
       "id": "b616754465ac",
       "title": "Tiempo muerto. Isabel Herguera",
@@ -46,9 +24,9 @@
       "is_new": false
     },
     {
-      "id": "008de5570d16",
-      "title": "Open Call: Residency for Artistic Projects 2027 (Winter)",
-      "url": "https://www.tabakalera.eus/en/open-call-residency-artistic-projects-2027-winter",
+      "id": "0f81f10613c3",
+      "title": "See all the calls in the agenda",
+      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/open-calls/",
       "source": "Tabakalera",
       "location": "San Sebastián",
       "tags": [
@@ -56,15 +34,14 @@
         "science",
         "local-spain"
       ],
-      "snippet": "Contemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic Projects 2027 (Winter)Read more",
-      "deadline": "2026-08-10T00:00:00",
-      "deadline_raw": "AUG 10 2026",
-      "priority_score": 2,
+      "snippet": "CALLSCURRENTPASTCinema and audiovisualOPEN CALL: 06/08/2026 (12:00) -26/08/2026 (12:00) | WORKSHOP: 8-9/09/2026Tiempo muerto. Isabel HergueraESRead moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRead more2026202520242026Contemporary art20 APR 2026 (12:00) - 01 JUN 2026 (12:00)Call for residency: Hospitalfield - Glasgow...",
+      "deadline": "2026-08-06T00:00:00",
+      "deadline_raw": "06/08/2026",
+      "priority_score": 1,
       "matched_keywords": [
-        "2026",
-        "2027"
+        "2026"
       ],
-      "first_seen": "2026-06-22T12:00:41.528781",
+      "first_seen": "2026-05-04T20:49:20.354207",
       "is_new": false
     },
     {
