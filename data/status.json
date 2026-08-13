@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:24:59.932836",
+  "generated_at": "2026-08-13T07:26:50.359456",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -19,7 +19,7 @@
       "name": "Res Artis Open Calls",
       "type": "rss",
       "url": "https://resartis.org/open-calls/feed/",
-      "status": "❌ ConnectTimeout",
+      "status": "❌ SSLError",
       "count": 0
     },
     {
@@ -82,7 +82,7 @@
       "name": "La Bonne (Centre de Cultura de Dones)",
       "type": "html",
       "url": "https://labonne.org/temes/noticies/",
-      "status": "❌ ConnectTimeout",
+      "status": "❌ SSLError",
       "count": 0
     },
     {
