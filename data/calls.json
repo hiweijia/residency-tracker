@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T07:26:50.359456",
-  "total": 59,
+  "generated_at": "2026-08-14T07:24:44.031864",
+  "total": 60,
   "calls": [
     {
       "id": "b616754465ac",
@@ -601,6 +601,25 @@
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.820746",
       "is_new": false
+    },
+    {
+      "id": "baa8162a3efe",
+      "title": "International Fellowship »Zwangsarbeit/en – Work Force/d« Awarded for the First Time",
+      "url": "https://www.akademie-solitude.de/en/news/internationales-stipendium-zwangsarbeit-en-work-force-d-erstmals-vergeben/",
+      "source": "Akademie Schloss Solitude News",
+      "location": "Stuttgart, DE",
+      "tags": [
+        "tech",
+        "web-residency",
+        "prestigious"
+      ],
+      "snippet": "",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-08-14T07:25:19.025153",
+      "is_new": true
     },
     {
       "id": "00d63e4bc8eb",
