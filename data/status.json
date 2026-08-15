@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:24:44.031864",
+  "generated_at": "2026-08-15T06:38:18.388889",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -124,7 +124,7 @@
       "name": "Medialab Matadero (Madrid)",
       "type": "html",
       "url": "https://www.medialab-matadero.es/en/announcements",
-      "status": "❌ HTTP 404",
+      "status": "❌ HTTP 500",
       "count": 0
     },
     {
