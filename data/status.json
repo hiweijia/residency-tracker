@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:38:18.388889",
+  "generated_at": "2026-08-16T06:39:48.601044",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -19,7 +19,7 @@
       "name": "Res Artis Open Calls",
       "type": "rss",
       "url": "https://resartis.org/open-calls/feed/",
-      "status": "❌ SSLError",
+      "status": "❌ ConnectTimeout",
       "count": 0
     },
     {
@@ -82,7 +82,7 @@
       "name": "La Bonne (Centre de Cultura de Dones)",
       "type": "html",
       "url": "https://labonne.org/temes/noticies/",
-      "status": "❌ SSLError",
+      "status": "❌ ConnectTimeout",
       "count": 0
     },
     {
@@ -103,7 +103,7 @@
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "✅ 0 items",
+      "status": "❌ ConnectionError",
       "count": 0
     },
     {
@@ -124,7 +124,7 @@
       "name": "Medialab Matadero (Madrid)",
       "type": "html",
       "url": "https://www.medialab-matadero.es/en/announcements",
-      "status": "❌ HTTP 500",
+      "status": "❌ HTTP 404",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 12,
-    "failed": 6,
+    "ok": 11,
+    "failed": 7,
     "warned": 3
   }
 }
