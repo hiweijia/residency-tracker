@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-19T06:42:46.315169",
+  "generated_at": "2026-08-20T06:45:29.691859",
   "total": 60,
   "calls": [
+    {
+      "id": "0f81f10613c3",
+      "title": "See all the calls in the agenda",
+      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/open-calls/",
+      "source": "Tabakalera",
+      "location": "San Sebastián",
+      "tags": [
+        "tech",
+        "science",
+        "local-spain"
+      ],
+      "snippet": "CALLSCURRENTPASTCinema and audiovisualOPEN CALL: 06/08/2026 (12:00) -26/08/2026 (12:00) | WORKSHOP: 8-9/09/2026Tiempo muerto. Isabel HergueraESRead moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRead more2026202520242026Contemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic...",
+      "deadline": "2026-08-26T00:00:00",
+      "deadline_raw": "26/08/2026",
+      "priority_score": 2,
+      "matched_keywords": [
+        "2026",
+        "2027"
+      ],
+      "first_seen": "2026-05-04T20:49:20.354207",
+      "is_new": false
+    },
     {
       "id": "b616754465ac",
       "title": "Tiempo muerto. Isabel Herguera",
@@ -24,27 +46,6 @@
       "is_new": false
     },
     {
-      "id": "0f81f10613c3",
-      "title": "See all the calls in the agenda",
-      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/open-calls/",
-      "source": "Tabakalera",
-      "location": "San Sebastián",
-      "tags": [
-        "tech",
-        "science",
-        "local-spain"
-      ],
-      "snippet": "CALLSCURRENTPASTCinema and audiovisualOPEN CALL: 06/08/2026 (12:00) -26/08/2026 (12:00) | WORKSHOP: 8-9/09/2026Tiempo muerto. Isabel HergueraESRead moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesRead more2026202520242026Contemporary art20 APR 2026 (12:00) - 01 JUN 2026 (12:00)Call for residency: Hospitalfield - Glasgow...",
-      "deadline": "2026-08-26T00:00:00",
-      "deadline_raw": "26/08/2026",
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:49:20.354207",
-      "is_new": false
-    },
-    {
       "id": "ba31c49bb8af",
       "title": "Open Call: Working studios and resources for the development of artistic projects 2026",
       "url": "https://www.tabakalera.eus/en/open-call-working-studios-and-resources-development-artistic-projects-2026",
@@ -55,7 +56,7 @@
         "science",
         "local-spain"
       ],
-      "snippet": "Contemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026Read more",
+      "snippet": "Contemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead more",
       "deadline": "2026-12-31T00:00:00",
       "deadline_raw": "DEC 31 2026",
       "priority_score": 1,
