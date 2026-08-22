@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:46:48.003089",
+  "generated_at": "2026-08-22T06:39:48.526519",
   "total": 60,
   "calls": [
     {
@@ -550,6 +550,24 @@
       "is_new": false
     },
     {
+      "id": "ae3ee9bf0c50",
+      "title": "UT Austin’s Harry Ransom Center Provides Funded Fellowships in the Arts and Humanities",
+      "url": "https://hyperallergic.com/ut-austins-harry-ransom-center-provides-funded-fellowships-in-the-arts-and-humanities/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "The humanities library and museum will award up to 50 fellowships to support scholars, artists, and writers conducting on-site archival research.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-08-22T06:40:21.956070",
+      "is_new": true
+    },
+    {
       "id": "454602142169",
       "title": "Open Call: The 7th VH AWARD for Media Artists Engaged with the Context of Asia",
       "url": "https://hyperallergic.com/7th-vh-award-for-media-artists-engaged-with-the-context-of-asia/",
@@ -583,24 +601,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.819163",
-      "is_new": false
-    },
-    {
-      "id": "89f1891564d0",
-      "title": "Frankenthaler Climate Initiative Opens Applications for Sixth Grant Cycle",
-      "url": "https://hyperallergic.com/frankenthaler-climate-initiative-opens-applications-for-sixth-grant-cycle/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "The program has awarded more than $17.5 million to US visual arts organizations pursuing energy efficiency assessments and projects.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:25.820746",
       "is_new": false
     },
     {
