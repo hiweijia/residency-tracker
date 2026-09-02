@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T11:13:26.407732",
-  "total": 59,
+  "generated_at": "2026-09-02T10:47:16.278289",
+  "total": 58,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -14,8 +14,8 @@
         "local-spain"
       ],
       "snippet": "CALLSCURRENTPASTCinema and audiovisualOPEN CALL: 06/08/2026 (12:00) -26/08/2026 (12:00) | WORKSHOP: 8-9/09/2026Tiempo muerto. Isabel HergueraESRead moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Contemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency fo...",
-      "deadline": "2026-08-26T00:00:00",
-      "deadline_raw": "26/08/2026",
+      "deadline": "2026-09-09T00:00:00",
+      "deadline_raw": "9/09/2026",
       "priority_score": 2,
       "matched_keywords": [
         "2026",
@@ -36,8 +36,8 @@
         "local-spain"
       ],
       "snippet": "Cinema and audiovisualOPEN CALL: 06/08/2026 (12:00) -26/08/2026 (12:00) | WORKSHOP: 8-9/09/2026Tiempo muerto. Isabel HergueraESRead more",
-      "deadline": "2026-08-26T00:00:00",
-      "deadline_raw": "26/08/2026",
+      "deadline": "2026-09-09T00:00:00",
+      "deadline_raw": "9/09/2026",
       "priority_score": 1,
       "matched_keywords": [
         "2026"
@@ -87,6 +87,26 @@
       ],
       "first_seen": "2026-06-16T11:12:41.852366",
       "is_new": false
+    },
+    {
+      "id": "a7dfdbd53bcc",
+      "title": "Opportunities in September 2026",
+      "url": "https://hyperallergic.com/opportunities-in-september-2026/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Residencies, fellowships, grants, and open calls from the Gulf Coast Journal, the Harry Ransom Center, the Smithsonian American Art Museum, the Vermont Studio Center, and more in our monthly list of opportunities for artists, writers, and art workers.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-09-02T10:47:49.888573",
+      "is_new": true
     },
     {
       "id": "ea7f0a3400fd",
@@ -286,26 +306,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:25.820218",
-      "is_new": false
-    },
-    {
-      "id": "971feaceacc6",
-      "title": "Opportunities in March 2026",
-      "url": "https://hyperallergic.com/opportunities-march-2026/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Residencies, fellowships, grants, and open calls from Vermont Studio Center, the Japanese American National Museum, and more in our monthly list of opportunities for artists, writers, and art workers.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:25.820483",
       "is_new": false
     },
     {
@@ -1078,25 +1078,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
-      "is_new": false
-    },
-    {
-      "id": "d87227633b28",
-      "title": "Open Call for Curators Based in Central and West Africa",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-curators-based-in-central-and-west-africa/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open Call for Curators Based in Central and West Africa",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-07-27T09:54:26.112585",
       "is_new": false
     },
     {
