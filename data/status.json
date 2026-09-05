@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:46:32.442187",
+  "generated_at": "2026-09-05T10:03:37.233308",
   "sources": [
     {
       "name": "On the Move (聚合 - 全欧洲)",
@@ -96,14 +96,14 @@
       "name": "Homesession",
       "type": "html",
       "url": "https://www.homesession.org/",
-      "status": "❌ ConnectTimeout",
+      "status": "✅ 0 items",
       "count": 0
     },
     {
       "name": "Espai Souvenir",
       "type": "html",
       "url": "https://espaisouvenir.com/",
-      "status": "❌ ConnectionError",
+      "status": "✅ 0 items",
       "count": 0
     },
     {
@@ -117,7 +117,7 @@
       "name": "Piramidón",
       "type": "html",
       "url": "https://www.piramidon.com/en/",
-      "status": "❌ ConnectTimeout",
+      "status": "✅ 0 items",
       "count": 0
     },
     {
@@ -151,8 +151,8 @@
   ],
   "summary": {
     "total_sources": 21,
-    "ok": 9,
-    "failed": 9,
+    "ok": 12,
+    "failed": 6,
     "warned": 3
   }
 }
