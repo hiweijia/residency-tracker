@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:52:17.106226",
-  "total": 58,
+  "generated_at": "2026-09-10T10:47:30.729079",
+  "total": 59,
   "calls": [
     {
       "id": "54957a2091c9",
@@ -20,7 +20,7 @@
         "2027"
       ],
       "first_seen": "2026-09-09T10:53:32.039129",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0f81f10613c3",
@@ -33,7 +33,7 @@
         "science",
         "local-spain"
       ],
-      "snippet": "CALLSCURRENTPASTCinema and audiovisual8-9/09/2026 | 10:00Tiempo muerto. Isabel HergueraESRead moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Contemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic Projects 2027 (Winter)Read moreContemporary...",
+      "snippet": "CALLSCURRENTPASTContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Cinema and audiovisual8-9/09/2026 | 10:00Tiempo muerto. Isabel HergueraRead moreContemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic Projects 2027 (Winter)Read moreContemporary a...",
       "deadline": "2026-09-09T00:00:00",
       "deadline_raw": "9/09/2026",
       "priority_score": 2,
@@ -1078,6 +1078,25 @@
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
       "is_new": false
+    },
+    {
+      "id": "260488e45225",
+      "title": "Open Call for Artists from Portugal or Portugese-speaking African Nations",
+      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-portugal-or-portugese-speaking-african-nations/",
+      "source": "Delfina Foundation Open Calls",
+      "location": "London",
+      "tags": [
+        "postcolonial",
+        "women",
+        "prestigious"
+      ],
+      "snippet": "Open Call for Artists from Portugal or Portugese-speaking African Nations",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-09-10T10:49:05.742713",
+      "is_new": true
     },
     {
       "id": "6cc787af86a2",
