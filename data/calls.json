@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-09-14T12:00:43.123912",
+  "generated_at": "2026-09-15T11:15:32.844067",
   "total": 59,
   "calls": [
-    {
-      "id": "54957a2091c9",
-      "title": "08.09.2026 La Caldera selects the proposals for its 2027 residencies",
-      "url": "https://ajuntament.barcelona.cat/fabriquescreacio/en/news/la-caldera-selects-proposals-its-2027-residencies",
-      "source": "Fabra i Coats Fàbriques de Creació",
-      "location": "Barcelona",
-      "tags": [
-        "local"
-      ],
-      "snippet": "08.09.2026 La Caldera selects the proposals for its 2027 residencies The call supports 13 research, creation and technical residency projects, as well as a proposal linked to the ... Read more",
-      "deadline": "2026-09-08T00:00:00",
-      "deadline_raw": "08.09.2026",
-      "priority_score": 2,
-      "matched_keywords": [
-        "2026",
-        "2027"
-      ],
-      "first_seen": "2026-09-09T10:53:32.039129",
-      "is_new": false
-    },
     {
       "id": "0f81f10613c3",
       "title": "See all the calls in the agenda",
@@ -1097,6 +1077,25 @@
       "matched_keywords": [],
       "first_seen": "2026-09-10T10:49:05.742713",
       "is_new": false
+    },
+    {
+      "id": "c38818930822",
+      "title": "Open call with Tate for Brooks International Fellowship Programme",
+      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-with-tate-for-brooks-international-fellowship-programme-2027/",
+      "source": "Delfina Foundation Open Calls",
+      "location": "London",
+      "tags": [
+        "postcolonial",
+        "women",
+        "prestigious"
+      ],
+      "snippet": "Open call with Tate for Brooks International Fellowship Programme",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-09-15T11:17:09.505560",
+      "is_new": true
     },
     {
       "id": "6cc787af86a2",
