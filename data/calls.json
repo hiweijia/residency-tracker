@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:15:32.844067",
+  "generated_at": "2026-09-16T10:57:40.665348",
   "total": 59,
   "calls": [
     {
@@ -14,8 +14,8 @@
         "local-spain"
       ],
       "snippet": "CALLSCURRENTPASTContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Cinema and audiovisual8-9/09/2026 | 10:00Tiempo muerto. Isabel HergueraRead moreContemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic Projects 2027 (Winter)Read moreContemporary a...",
-      "deadline": "2026-09-09T00:00:00",
-      "deadline_raw": "9/09/2026",
+      "deadline": "2026-12-31T00:00:00",
+      "deadline_raw": "DEC 31 2026",
       "priority_score": 2,
       "matched_keywords": [
         "2026",
@@ -1095,7 +1095,7 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-09-15T11:17:09.505560",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6cc787af86a2",
