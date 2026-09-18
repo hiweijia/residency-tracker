@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T11:08:02.946600",
-  "total": 59,
+  "generated_at": "2026-09-18T10:41:48.908872",
+  "total": 60,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -581,6 +581,25 @@
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:25.819163",
       "is_new": false
+    },
+    {
+      "id": "e86496a5501c",
+      "title": "The six projects of the 22nd Web Residencies »Ignore All Previous Instructions« have now been announced!",
+      "url": "https://www.akademie-solitude.de/en/news/the-six-projects-of-the-22nd-web-residencies-ignore-all-previous-instructions-have-now-been-announced/",
+      "source": "Akademie Schloss Solitude News",
+      "location": "Stuttgart, DE",
+      "tags": [
+        "tech",
+        "web-residency",
+        "prestigious"
+      ],
+      "snippet": "",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-09-18T10:42:23.237337",
+      "is_new": true
     },
     {
       "id": "baa8162a3efe",
