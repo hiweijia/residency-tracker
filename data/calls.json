@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T10:41:48.908872",
-  "total": 60,
+  "generated_at": "2026-09-19T10:26:17.918784",
+  "total": 61,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -13,9 +13,9 @@
         "science",
         "local-spain"
       ],
-      "snippet": "CALLSCURRENTPASTContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Cinema and audiovisual8-9/09/2026 | 10:00Tiempo muerto. Isabel HergueraRead moreContemporary artJUN 29 2026 (12:00) - AUG 10 2026 (13:00)Open Call: Residency for Artistic Projects 2027 (Winter)Read moreContemporary a...",
-      "deadline": "2026-12-31T00:00:00",
-      "deadline_raw": "DEC 31 2026",
+      "snippet": "CALLSCURRENTPASTCinema and audiovisualOPEN CALL: 18-30 SEP 2026 | WORKSHOP: 05-06 OCT 2026CIRCUITOS: Film Circulation WorkshopESRead moreContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Cinema and audiovisual8-9/09/2026 | 10:00Tiempo muerto. Isabel HergueraRead moreContemporary ar...",
+      "deadline": "2026-09-30T00:00:00",
+      "deadline_raw": "30 SEP 2026",
       "priority_score": 2,
       "matched_keywords": [
         "2026",
@@ -23,6 +23,27 @@
       ],
       "first_seen": "2026-05-04T20:49:20.354207",
       "is_new": false
+    },
+    {
+      "id": "19f76f12e198",
+      "title": "CIRCUITOS: Film Circulation Workshop",
+      "url": "https://www.tabakalera.eus/en/circuitos-film-circulation-workshop",
+      "source": "Tabakalera",
+      "location": "San Sebastián",
+      "tags": [
+        "tech",
+        "science",
+        "local-spain"
+      ],
+      "snippet": "Cinema and audiovisualOPEN CALL: 18-30 SEP 2026 | WORKSHOP: 05-06 OCT 2026CIRCUITOS: Film Circulation WorkshopESRead more",
+      "deadline": "2026-09-30T00:00:00",
+      "deadline_raw": "30 SEP 2026",
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-09-19T10:27:45.218028",
+      "is_new": true
     },
     {
       "id": "ba31c49bb8af",
@@ -599,7 +620,7 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-09-18T10:42:23.237337",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "baa8162a3efe",
