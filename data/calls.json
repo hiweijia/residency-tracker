@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:05:19.359937",
+  "generated_at": "2026-09-23T10:55:22.342977",
   "total": 61,
   "calls": [
     {
@@ -89,6 +89,26 @@
       "is_new": false
     },
     {
+      "id": "318433985344",
+      "title": "Apply for a 2027–2028 Fellowship at the Smithsonian American Art Museum",
+      "url": "https://hyperallergic.com/apply-for-a-2027-2028-fellowship-at-the-smithsonian-american-art-museum/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Fellowships at SAAM and its Renwick Gallery provide scholars with access to collections, community, and professional advancement.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2027"
+      ],
+      "first_seen": "2026-09-23T10:55:56.071939",
+      "is_new": true
+    },
+    {
       "id": "a7dfdbd53bcc",
       "title": "Opportunities in September 2026",
       "url": "https://hyperallergic.com/opportunities-in-september-2026/",
@@ -127,6 +147,26 @@
       ],
       "first_seen": "2026-08-04T08:37:16.752552",
       "is_new": false
+    },
+    {
+      "id": "22c40dba629c",
+      "title": "Open Call 2027: Jentel Artist Residency",
+      "url": "https://hyperallergic.com/open-call-2027-jentel-artist-residency/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "A Mountain West residency for artists, writers, and composers.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2027"
+      ],
+      "first_seen": "2026-09-23T10:55:56.073094",
+      "is_new": true
     },
     {
       "id": "d54485a818f6",
@@ -266,46 +306,6 @@
         "2026"
       ],
       "first_seen": "2026-05-04T20:48:25.818881",
-      "is_new": false
-    },
-    {
-      "id": "74b5736df7dd",
-      "title": "Deepen Your Creative Practice at Vermont Studio Center",
-      "url": "https://hyperallergic.com/deepen-your-creative-practice-at-vermont-studio-center/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Sessions include resident presentations, open studios, and the acclaimed Visiting Artist & Writer program. Applications are open for early 2027.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2027"
-      ],
-      "first_seen": "2026-05-04T20:48:25.819956",
-      "is_new": false
-    },
-    {
-      "id": "d010c462a951",
-      "title": "Call for Applications: 2026 Craft Archive Fellowship",
-      "url": "https://hyperallergic.com/call-for-applications-2026-craft-archive-fellowship/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "The Center for Craft will award up to four $5,000 fellowships to support research on underrepresented craft histories, culminating in an article on Hyperallergic.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-05-04T20:48:25.820218",
       "is_new": false
     },
     {
