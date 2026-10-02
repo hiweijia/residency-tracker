@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T12:35:05.558955",
-  "total": 61,
+  "generated_at": "2026-10-02T11:59:59.905777",
+  "total": 62,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -87,6 +87,26 @@
       ],
       "first_seen": "2026-06-16T11:12:41.852366",
       "is_new": false
+    },
+    {
+      "id": "0874b19f87c1",
+      "title": "Opportunities in October 2026",
+      "url": "https://hyperallergic.com/opportunities-in-october-2026/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Residencies, fellowships, grants, and open calls from ArtFields, The Image Centre, Millay Arts, Lower Manhattan Cultural Council, and more in our monthly list of opportunities for artists, writers, and art workers.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-10-02T12:00:32.611691",
+      "is_new": true
     },
     {
       "id": "318433985344",
