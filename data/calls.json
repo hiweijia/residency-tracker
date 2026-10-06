@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T13:49:08.757172",
-  "total": 62,
+  "generated_at": "2026-10-06T12:53:25.515198",
+  "total": 61,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -1117,25 +1117,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
-      "is_new": false
-    },
-    {
-      "id": "260488e45225",
-      "title": "Open Call for Artists from Portugal or Portugese-speaking African Nations",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-portugal-or-portugese-speaking-african-nations/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open Call for Artists from Portugal or Portugese-speaking African Nations",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-09-10T10:49:05.742713",
       "is_new": false
     },
     {
