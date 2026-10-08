@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T12:47:26.613778",
-  "total": 61,
+  "generated_at": "2026-10-08T12:56:14.079575",
+  "total": 60,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -226,26 +226,6 @@
         "migrant"
       ],
       "first_seen": "2026-07-01T09:49:11.304837",
-      "is_new": false
-    },
-    {
-      "id": "8d89d5963021",
-      "title": "Announcing the 2026 McKnight Visual Artist Fellows",
-      "url": "https://hyperallergic.com/announcing-the-2026-mcknight-visual-artist-fellows/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Designed to support mid-career Minnesota artists, the fellowship provides each recipient with a $25,000 stipend, professional development, a residency, and more.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-07-01T09:49:11.305148",
       "is_new": false
     },
     {
