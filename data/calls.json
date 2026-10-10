@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T12:42:19.176038",
-  "total": 60,
+  "generated_at": "2026-10-10T12:01:18.886599",
+  "total": 61,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -65,6 +65,26 @@
       ],
       "first_seen": "2026-05-04T20:49:20.351905",
       "is_new": false
+    },
+    {
+      "id": "7bb5c8297853",
+      "title": "Over $100,000 in Prizes and New Public Art Opportunities at 2027 ArtFields Festival",
+      "url": "https://hyperallergic.com/over-100-000-in-prizes-and-new-public-art-opportunities-at-2027-artfields-festival/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Southern artists can apply now to show in Lake City, SC, where the whole town becomes a gallery April 15 - May 1, 2027.",
+      "deadline": "2027-05-01T00:00:00",
+      "deadline_raw": "May 1, 2027",
+      "priority_score": 1,
+      "matched_keywords": [
+        "2027"
+      ],
+      "first_seen": "2026-10-10T12:01:53.720255",
+      "is_new": true
     },
     {
       "id": "7d8d24ec300e",
