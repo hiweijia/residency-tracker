@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T14:37:28.379441",
-  "total": 61,
+  "generated_at": "2026-10-13T13:42:12.628654",
+  "total": 60,
   "calls": [
     {
       "id": "0f81f10613c3",
@@ -14,35 +14,14 @@
         "local-spain"
       ],
       "snippet": "CALLSCURRENTPASTContemporary artJAN 01 2026 00:00 - DEC 31 2026 23:59Open Call: Working studios and resources for the development of artistic projects 2026EU, ES, ENRead moreCinema and audiovisualJAN. 01 - DEC. 31 Permanent call: Space and resourcesEU, ES, ENRead more2026202520242026Cinema and audiovisualOPEN CALL: SEP 18 (12:00) -30 SEP (12:00) 2026 | WORKSHOP: 05-06 OCT 2026CIRCUITOS: Film Circulation WorkshopRead moreCinema and audiovisual8-9/09/2026 | 10:00Tiempo muerto. Isabel HergueraRead ...",
-      "deadline": "2026-10-06T00:00:00",
-      "deadline_raw": "06 OCT 2026",
+      "deadline": "2026-12-31T00:00:00",
+      "deadline_raw": "DEC 31 2026",
       "priority_score": 2,
       "matched_keywords": [
         "2026",
         "2027"
       ],
       "first_seen": "2026-05-04T20:49:20.354207",
-      "is_new": false
-    },
-    {
-      "id": "19f76f12e198",
-      "title": "Cinema and audiovisualOPEN CALL: SEP 18 (12:00) -30 SEP (12:00) 2026 | WORKSHOP: 05-06 OCT 2026CIRCUITOS: Film Circulation WorkshopRead more",
-      "url": "https://www.tabakalera.eus/en/circuitos-film-circulation-workshop",
-      "source": "Tabakalera",
-      "location": "San Sebastián",
-      "tags": [
-        "tech",
-        "science",
-        "local-spain"
-      ],
-      "snippet": "Cinema and audiovisualOPEN CALL: SEP 18 (12:00) -30 SEP (12:00) 2026 | WORKSHOP: 05-06 OCT 2026CIRCUITOS: Film Circulation WorkshopRead more",
-      "deadline": "2026-10-06T00:00:00",
-      "deadline_raw": "06 OCT 2026",
-      "priority_score": 1,
-      "matched_keywords": [
-        "2026"
-      ],
-      "first_seen": "2026-09-19T10:27:45.218028",
       "is_new": false
     },
     {
