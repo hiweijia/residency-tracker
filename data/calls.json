@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:58:04.819515",
+  "generated_at": "2026-10-16T10:51:38.783280",
   "total": 60,
   "calls": [
     {
@@ -327,6 +327,26 @@
       ],
       "first_seen": "2026-05-04T20:48:30.611719",
       "is_new": false
+    },
+    {
+      "id": "32315d2c7d73",
+      "title": "Convocatoria SAC-FiC Programa de Residencias Artísticas 2027",
+      "url": "https://santandreucontemporani.org/es/convocatorias-es/convocatoria-sac-fic-programa-de-residencias-artisticas-2027/",
+      "source": "Sant Andreu Contemporani",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "low-competition"
+      ],
+      "snippet": "16 | 10 | 26Convocatoria SAC-FiC Programa de Residencias Artísticas 2027 SAC-FiC Programa de ResidenciasConvocatorias",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2027"
+      ],
+      "first_seen": "2026-10-16T10:52:20.340193",
+      "is_new": true
     },
     {
       "id": "aca69f370351",
@@ -1022,24 +1042,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:33.585658",
-      "is_new": false
-    },
-    {
-      "id": "6af8bce1be37",
-      "title": "Artistas seleccionados/as en la Convocatoria de Artes Visuales Miquel Casablancas 2024",
-      "url": "https://santandreucontemporani.org/es/convocatorias-es/artistas-seleccionados-as-en-la-convocatoria-de-artes-visuales-miquel-casablancas-2024/",
-      "source": "Sant Andreu Contemporani",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "low-competition"
-      ],
-      "snippet": "25 | 10 | 24Artistas seleccionados/as en la Convocatoria de Artes Visuales Miquel Casablancas 2024 Miquel CasablancasConvocatorias",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:33.585962",
       "is_new": false
     },
     {
