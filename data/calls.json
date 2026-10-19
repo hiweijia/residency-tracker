@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T10:30:53.261622",
-  "total": 60,
+  "generated_at": "2026-10-19T12:21:53.533737",
+  "total": 61,
   "calls": [
+    {
+      "id": "bce8213b2499",
+      "title": "See all the activities in the agenda",
+      "url": "https://www.tabakalera.eus/en/cultural-agenda-san-sebastian/",
+      "source": "Tabakalera",
+      "location": "San Sebastián",
+      "tags": [
+        "tech",
+        "science",
+        "local-spain"
+      ],
+      "snippet": "ACTIVITIES FOR ARTISTS AND CREATORSCURRENTPASTContemporary art29 Oct 2026 | 18:00Arte makina. KOOPERATIBAESRead moreContemporary art06 Nov 2026 | 17:00Francisco LÃ³pezâs masterclass âSonic creation: Social experimental audio, environmental sound matter, and immersive listeningâESRead moreMusic and live arts07 Nov 2026 | Doors open at 9.00 pm. Concert starts at 9.30 pm.Francisco LÃ³pez. Sonic creaturesNo dialogueNo dialogueRead moreContemporary art 19 November at Tabakalera and 20 November ...",
+      "deadline": "2026-10-29T00:00:00",
+      "deadline_raw": "29 Oct 2026",
+      "priority_score": 2,
+      "matched_keywords": [
+        "body",
+        "2026"
+      ],
+      "first_seen": "2026-06-19T10:28:49.028998",
+      "is_new": false
+    },
     {
       "id": "0f81f10613c3",
       "title": "See all the calls in the agenda",
