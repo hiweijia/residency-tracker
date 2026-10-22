@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:18:05.587700",
+  "generated_at": "2026-10-22T11:16:55.932983",
   "total": 58,
   "calls": [
     {
@@ -751,7 +751,7 @@
     },
     {
       "id": "300a1b8ef737",
-      "title": "SAC-FiC Programa de Residencias",
+      "title": "SAC-FiC Programa de Residencias Artísticas",
       "url": "https://santandreucontemporani.org/es/convocatorias/sac-fic-programa-de-residencias/",
       "source": "Sant Andreu Contemporani",
       "location": "Barcelona",
@@ -759,7 +759,7 @@
         "local",
         "low-competition"
       ],
-      "snippet": "SAC-FiC Programa de Residencias",
+      "snippet": "SAC-FiC Programa de Residencias Artísticas",
       "deadline": null,
       "deadline_raw": null,
       "priority_score": 0,
