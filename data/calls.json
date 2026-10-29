@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T12:15:40.945994",
-  "total": 59,
+  "generated_at": "2026-10-29T12:25:00.913771",
+  "total": 58,
   "calls": [
     {
       "id": "7bb5c8297853",
@@ -1074,25 +1074,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
-      "is_new": false
-    },
-    {
-      "id": "c38818930822",
-      "title": "Open call with Tate for Brooks International Fellowship Programme",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-with-tate-for-brooks-international-fellowship-programme-2027/",
-      "source": "Delfina Foundation Open Calls",
-      "location": "London",
-      "tags": [
-        "postcolonial",
-        "women",
-        "prestigious"
-      ],
-      "snippet": "Open call with Tate for Brooks International Fellowship Programme",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-09-15T11:17:09.505560",
       "is_new": false
     },
     {
