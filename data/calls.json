@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T12:25:00.913771",
-  "total": 58,
+  "generated_at": "2026-10-30T12:16:16.486721",
+  "total": 57,
   "calls": [
     {
       "id": "7bb5c8297853",
@@ -615,25 +615,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-08-14T07:25:19.025153",
-      "is_new": false
-    },
-    {
-      "id": "00d63e4bc8eb",
-      "title": "Call for Web Residencies N° 22 »Ignore All Previous Instructions«",
-      "url": "https://www.akademie-solitude.de/en/news/ausschreibung-fuer-web-residencies-n-22-ignore-all-previous-instructions/",
-      "source": "Akademie Schloss Solitude News",
-      "location": "Stuttgart, DE",
-      "tags": [
-        "tech",
-        "web-residency",
-        "prestigious"
-      ],
-      "snippet": "",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-07-07T09:42:50.121487",
       "is_new": false
     },
     {
