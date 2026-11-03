@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:56:06.904638",
+  "generated_at": "2026-11-03T13:44:10.459815",
   "total": 57,
   "calls": [
     {
@@ -43,6 +43,26 @@
       ],
       "first_seen": "2026-06-16T11:12:41.852366",
       "is_new": false
+    },
+    {
+      "id": "e969ea6065a8",
+      "title": "Opportunities in November 2026",
+      "url": "https://hyperallergic.com/opportunities-in-november-2026/",
+      "source": "Hyperallergic Opportunities",
+      "location": "US/International",
+      "tags": [
+        "aggregator",
+        "us"
+      ],
+      "snippet": "Residencies, fellowships, grants, and open calls from Baton Rouge Gallery, Columbia University, MFA Houston, the Nelson Atkins Museum of Art, and more in our monthly list of opportunities for artists, writers, and art workers.",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2026"
+      ],
+      "first_seen": "2026-11-03T13:44:43.964727",
+      "is_new": true
     },
     {
       "id": "0874b19f87c1",
@@ -559,24 +579,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-30T08:29:41.408698",
-      "is_new": false
-    },
-    {
-      "id": "3959653eefb4",
-      "title": "Take Your Practice Further in a Visual Arts Residency at Banff Centre",
-      "url": "https://hyperallergic.com/take-your-practice-further-in-a-visual-arts-residency-at-banff-centre/",
-      "source": "Hyperallergic Opportunities",
-      "location": "US/International",
-      "tags": [
-        "aggregator",
-        "us"
-      ],
-      "snippet": "Engage with leading contemporary faculty, access exceptional studios, and develop your practice in Banff’s inspiring mountain setting.",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:25.819163",
       "is_new": false
     },
     {
