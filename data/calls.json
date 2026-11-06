@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:07:51.288326",
+  "generated_at": "2026-11-06T13:50:46.104093",
   "total": 57,
   "calls": [
     {
@@ -304,6 +304,26 @@
       ],
       "first_seen": "2026-05-04T20:48:30.611719",
       "is_new": false
+    },
+    {
+      "id": "147d75f63cca",
+      "title": "Open Call: SAC International Curatorial Residency Program 2027",
+      "url": "https://santandreucontemporani.org/es/convocatorias-es/open-call-sac-international-curatorial-residency-program-2027/",
+      "source": "Sant Andreu Contemporani",
+      "location": "Barcelona",
+      "tags": [
+        "local",
+        "low-competition"
+      ],
+      "snippet": "06 | 11 | 26Open Call: SAC International Curatorial Residency Program 2027 SAC International Curatorial Residency ProgramConvocatorias",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 1,
+      "matched_keywords": [
+        "2027"
+      ],
+      "first_seen": "2026-11-06T13:51:29.317809",
+      "is_new": true
     },
     {
       "id": "32315d2c7d73",
@@ -983,24 +1003,6 @@
       "priority_score": 0,
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:48:33.585346",
-      "is_new": false
-    },
-    {
-      "id": "255f0f98b02b",
-      "title": "Open Call :: SAC International Curatorial Residency Program 2025",
-      "url": "https://santandreucontemporani.org/es/convocatorias-es/open-call-sac-international-curatorial-residency-program-2025-2/",
-      "source": "Sant Andreu Contemporani",
-      "location": "Barcelona",
-      "tags": [
-        "local",
-        "low-competition"
-      ],
-      "snippet": "02 | 11 | 24Open Call :: SAC International Curatorial Residency Program 2025 SAC International Curatorial Residency ProgramConvocatorias",
-      "deadline": null,
-      "deadline_raw": null,
-      "priority_score": 0,
-      "matched_keywords": [],
-      "first_seen": "2026-05-04T20:48:33.585658",
       "is_new": false
     },
     {
