@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T15:00:39.564140",
-  "total": 57,
+  "generated_at": "2026-11-17T15:36:09.132807",
+  "total": 58,
   "calls": [
     {
       "id": "7bb5c8297853",
@@ -1060,6 +1060,25 @@
       "matched_keywords": [],
       "first_seen": "2026-05-04T20:49:24.071425",
       "is_new": false
+    },
+    {
+      "id": "41d41efd7f48",
+      "title": "Open Call: Delfina Foundation x Lithuanian Culture Institute",
+      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-delfina-foundation-x-lithuanian-culture-institute/",
+      "source": "Delfina Foundation Open Calls",
+      "location": "London",
+      "tags": [
+        "postcolonial",
+        "women",
+        "prestigious"
+      ],
+      "snippet": "Open Call: Delfina Foundation x Lithuanian Culture Institute",
+      "deadline": null,
+      "deadline_raw": null,
+      "priority_score": 0,
+      "matched_keywords": [],
+      "first_seen": "2026-11-17T15:37:54.038424",
+      "is_new": true
     },
     {
       "id": "6cc787af86a2",
